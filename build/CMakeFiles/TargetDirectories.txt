@@ -1,0 +1,15 @@
+/home/feng/xiaozhi/work/app4/build/CMakeFiles/rebuild_cache.dir
+/home/feng/xiaozhi/work/app4/build/CMakeFiles/app4.dir
+/home/feng/xiaozhi/work/app4/build/CMakeFiles/edit_cache.dir
+/home/feng/xiaozhi/work/app4/build/lvgl/CMakeFiles/rebuild_cache.dir
+/home/feng/xiaozhi/work/app4/build/lvgl/CMakeFiles/edit_cache.dir
+/home/feng/xiaozhi/work/app4/build/lvgl/CMakeFiles/lvgl.dir
+/home/feng/xiaozhi/work/app4/build/lvgl/CMakeFiles/lvgl_demos.dir
+/home/feng/xiaozhi/work/app4/build/platform/CMakeFiles/rebuild_cache.dir
+/home/feng/xiaozhi/work/app4/build/platform/CMakeFiles/edit_cache.dir
+/home/feng/xiaozhi/work/app4/build/platform/src/CMakeFiles/rebuild_cache.dir
+/home/feng/xiaozhi/work/app4/build/platform/src/CMakeFiles/lvgl_porting.dir
+/home/feng/xiaozhi/work/app4/build/platform/src/CMakeFiles/edit_cache.dir
+/home/feng/xiaozhi/work/app4/build/font/CMakeFiles/rebuild_cache.dir
+/home/feng/xiaozhi/work/app4/build/font/CMakeFiles/font.dir
+/home/feng/xiaozhi/work/app4/build/font/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/app4.dir/main.c.o CMakeFiles/app4.dir/page_test.c.o  -o app4 lvgl/liblvgl.a font/libfont.a platform/src/liblvgl_porting.a ../../app_sdk/platform/x86linux/lib/libfreetype.a -lz -lSDL2 -lpthread -lm -ldl lvgl/liblvgl.a lvgl/liblvgl.a platform/src/liblvgl_porting.a -lz -lSDL2 -lpthread -lm -ldl 
