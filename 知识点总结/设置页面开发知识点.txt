@@ -1,0 +1,73 @@
+## LVGL 核心知识简洁总结
+
+### 1. **`LV_PCT(100)` - 百分比布局**
+- 表示占父容器的 **100%** 宽度或高度
+- `lv_obj_set_size(obj, LV_PCT(100), LV_SIZE_CONTENT)` = 宽度100%，高度自适应内容
+
+### 2. **`lv_obj_align` vs `lv_obj_align_to`**
+
+| 函数 | 参考对象 | 用途 |
+|------|---------|------|
+| `lv_obj_align(obj, align, x, y)` | 父对象 | 相对于父容器定位 |
+| `lv_obj_align_to(obj, ref, align, x, y)` | 指定参考对象 | 相对于其他控件定位 |
+
+### 3. **`lv_obj_set_size` 参数顺序**
+```c
+lv_obj_set_size(obj, 宽度, 高度);
+// 第二个参数 = 宽，第三个参数 = 高
+```
+
+### 4. **点击事件区分**
+- **方案**：为每个可点击控件**单独**添加事件回调
+- **关键**：添加 `LV_OBJ_FLAG_CLICKABLE` 标志
+- **错误**：只在父容器添加事件 → 无法区分点击了哪个子控件
+
+### 5. **数据结构与代码分离**
+```c
+typedef struct {
+    char *name;
+    char *icon;
+} item_t;
+
+item_t items[] = {{"亮度", icon_bright}, {"音量", icon_vol}};
+// 用循环批量创建，避免重复代码
+```
+
+### 6. **事件机制核心**
+
+| 步骤 | 代码 | 说明 |
+|------|------|------|
+| **注册** | `lv_obj_add_event_cb(obj, cb, event, user_data)` | 告诉系统监听谁、回调谁、带什么数据 |
+| **触发** | 用户操作 | 系统自动创建事件对象 `e` |
+| **处理** | `cb(lv_event_t * e)` | 从 `e` 中取出信息 |
+
+```c
+// 回调函数中取数据
+lv_obj_t * target = lv_event_get_target(e);      // 谁触发的
+void * user_data = lv_event_get_user_data(e);    // 注册时传入的数据
+lv_event_code_t code = lv_event_get_code(e);     // 什么事件
+```
+
+### 7. **常见布局模式**
+```c
+// 父容器：全屏黑色背景
+lv_obj_set_size(parent, LV_PCT(100), LV_PCT(100));
+
+// 顶部栏：宽度100%，高度自适应
+lv_obj_set_size(top_bar, LV_PCT(100), LV_SIZE_CONTENT);
+lv_obj_align(top_bar, LV_ALIGN_TOP_MID, 0, 0);
+
+// 内容区：弹性布局垂直排列
+lv_obj_set_flex_flow(content, LV_FLEX_FLOW_COLUMN);
+lv_obj_set_style_pad_row(content, 20, LV_PART_MAIN);
+```
+
+### 8. **滑块联动标签**
+```c
+// 注册时传入标签
+lv_obj_add_event_cb(slider, cb, LV_EVENT_VALUE_CHANGED, label);
+
+// 回调中更新标签并重新对齐
+lv_label_set_text_fmt(label, "%d%%", value);
+lv_obj_align_to(label, slider, LV_ALIGN_OUT_RIGHT_MID, 15, -5);
+```

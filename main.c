@@ -18,8 +18,8 @@ int main() {
     lv_port_indev_init();
     
     font_init();
-    init_page_test();
-
+    //init_page_main();
+    init_page_setting();
     while (1) {
         lv_task_handler();
         //延时，保证cpu占有率不会过高

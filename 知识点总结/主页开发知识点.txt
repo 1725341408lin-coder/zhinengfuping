@@ -1,0 +1,49 @@
+# LVGL 代码问题整理
+
+## 1. `obj_font_set` 函数的作用？
+**封装字体设置**：根据字体类型和大小获取字体对象，然后设置到控件上，简化代码。
+
+---
+
+## 2. `get_font(type, weight)` 和 `lv_obj_set_style_text_font` 的区别？
+- `get_font()`：自定义函数，根据类型和大小返回字体对象
+- `lv_obj_set_style_text_font()`：LVGL官方API，将字体应用到控件
+
+---
+
+## 3. `LV_SIZE_CONTENT` 是如何实现的？
+容器根据子对象内容**自动调整大小**，不是整个屏幕，只是普通容器。
+
+---
+
+## 4. `FONT_TYPE_LETTER` 和 `FONT_TYPE_CN` 的区别？
+| 类型 | 用途 | 内存 |
+|------|------|------|
+| `LETTER` | 英文/数字 | KB级 |
+| `CN` | 中文/英文/数字 | MB级 |
+
+---
+
+## 5. 定时器如何实现时间更新？
+- `lv_timer_create()` 创建1秒定时器
+- 回调函数中获取系统时间
+- `lv_label_set_text_fmt()` 更新UI显示
+
+---
+
+## 6. 新旧时间更新代码对比？
+**新代码更好**：更简洁、无全局变量、性能更优。
+
+---
+
+## 7. `lv_obj_add_event_cb` 的作用？
+LVGL官方API，为控件添加事件回调（如点击事件）。
+
+---
+
+## 8. `lv_label_get_text(label)` 和 `lv_event_get_user_data(e)` 如何联系？
+1. 注册时：`lv_label_get_text()` 返回文本指针，作为 `user_data` 保存
+2. 点击时：`lv_event_get_user_data(e)` 取出保存的指针
+3. 转换回 `char*` 即可使用
+
+**关键**：先保存指针，后取出使用，不是直接传递。

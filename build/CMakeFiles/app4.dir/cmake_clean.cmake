@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/app4.dir/main.c.o"
-  "CMakeFiles/app4.dir/page_test.c.o"
+  "CMakeFiles/app4.dir/page_main.c.o"
+  "CMakeFiles/app4.dir/page_setting.c.o"
   "app4"
   "app4.pdb"
 )

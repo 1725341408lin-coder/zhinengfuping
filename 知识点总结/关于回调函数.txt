@@ -1,0 +1,31 @@
+## 事件机制简洁总结
+
+### 1. **注册事件**
+```c
+lv_obj_add_event_cb(slider, slider_event_cb, LV_EVENT_VALUE_CHANGED, label_value);
+```
+- **第1个参数**：监听谁（滑块）
+- **第2个参数**：回调函数（做什么）
+- **第3个参数**：监听什么事件（值改变）
+- **第4个参数**：自定义数据（把标签"绑定"进来），你自己定义想塞进去的数据
+
+### 2. **事件对象 `e`**
+系统自动创建的**信息包裹**，包含：
+- `target`：谁触发的事件（滑块）
+- `code`：什么事件（值改变）
+- `user_data`：你塞的自定义数据（标签）
+
+### 3. **回调函数中拆包**
+```c
+static void slider_event_cb(lv_event_t * e) {
+    lv_obj_t * slider = lv_event_get_target(e);      // 取滑块
+    lv_obj_t * label = lv_event_get_user_data(e);    // 取标签
+    int value = lv_slider_get_value(slider);         // 获取新值
+    lv_label_set_text_fmt(label, "%d%%", value);     // 更新标签
+}
+```
+
+### 核心理解
+- **注册时**：告诉系统"当A发生B事情时，调用C函数，并记住这个D数据"
+- **事件发生时**：系统创建包裹 `e`，把A、B、D都装进去，调用C函数
+- **回调函数中**：从包裹 `e` 里取出A、B、D，执行逻辑

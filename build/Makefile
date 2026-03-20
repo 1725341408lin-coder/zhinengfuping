@@ -202,32 +202,59 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/main.c.s
 .PHONY : main.c.s
 
-page_test.o: page_test.c.o
+page_main.o: page_main.c.o
 
-.PHONY : page_test.o
+.PHONY : page_main.o
 
 # target to build an object file
-page_test.c.o:
-	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_test.c.o
-.PHONY : page_test.c.o
+page_main.c.o:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_main.c.o
+.PHONY : page_main.c.o
 
-page_test.i: page_test.c.i
+page_main.i: page_main.c.i
 
-.PHONY : page_test.i
+.PHONY : page_main.i
 
 # target to preprocess a source file
-page_test.c.i:
-	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_test.c.i
-.PHONY : page_test.c.i
+page_main.c.i:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_main.c.i
+.PHONY : page_main.c.i
 
-page_test.s: page_test.c.s
+page_main.s: page_main.c.s
 
-.PHONY : page_test.s
+.PHONY : page_main.s
 
 # target to generate assembly for a file
-page_test.c.s:
-	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_test.c.s
-.PHONY : page_test.c.s
+page_main.c.s:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_main.c.s
+.PHONY : page_main.c.s
+
+page_setting.o: page_setting.c.o
+
+.PHONY : page_setting.o
+
+# target to build an object file
+page_setting.c.o:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_setting.c.o
+.PHONY : page_setting.c.o
+
+page_setting.i: page_setting.c.i
+
+.PHONY : page_setting.i
+
+# target to preprocess a source file
+page_setting.c.i:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_setting.c.i
+.PHONY : page_setting.c.i
+
+page_setting.s: page_setting.c.s
+
+.PHONY : page_setting.s
+
+# target to generate assembly for a file
+page_setting.c.s:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_setting.c.s
+.PHONY : page_setting.c.s
 
 # Help Target
 help:
@@ -245,9 +272,12 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... page_test.o"
-	@echo "... page_test.i"
-	@echo "... page_test.s"
+	@echo "... page_main.o"
+	@echo "... page_main.i"
+	@echo "... page_main.s"
+	@echo "... page_setting.o"
+	@echo "... page_setting.i"
+	@echo "... page_setting.s"
 .PHONY : help
 
 

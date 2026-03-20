@@ -1054,7 +1054,19 @@ page_conf.h
 
 /home/feng/xiaozhi/work/app4/page_conf.h
 
-/home/feng/xiaozhi/work/app4/page_test.c
+/home/feng/xiaozhi/work/app4/page_main.c
+stdio.h
+-
+time.h
+-
+lvgl.h
+/home/feng/xiaozhi/work/app4/lvgl.h
+image_conf.h
+/home/feng/xiaozhi/work/app4/image_conf.h
+font_conf.h
+/home/feng/xiaozhi/work/app4/font_conf.h
+
+/home/feng/xiaozhi/work/app4/page_setting.c
 stdio.h
 -
 lvgl.h

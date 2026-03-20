@@ -124,6 +124,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alp
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
@@ -248,6 +249,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_arg
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
@@ -372,6 +374,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_chr
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
@@ -496,6 +499,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_ind
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
@@ -620,6 +624,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
@@ -744,6 +749,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
@@ -868,6 +874,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserra
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
@@ -992,6 +999,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserra
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
@@ -1116,6 +1124,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserra
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
@@ -1247,6 +1256,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o: /home/feng
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/benchmark/lv_demo_benchmark.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.c
@@ -1378,6 +1388,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o: 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/keypad_encoder/lv_demo_keypad_encoder.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -1509,6 +1520,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_l
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_corner_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -1640,6 +1652,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pau
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -1771,6 +1784,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pau
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -1902,6 +1916,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pla
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -2033,6 +2048,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_pla
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -2164,6 +2180,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -2295,6 +2312,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_lar
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -2426,6 +2444,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -2557,6 +2576,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_lar
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_next_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -2688,6 +2708,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -2819,6 +2840,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_la
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_pause_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -2950,6 +2972,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -3081,6 +3104,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_lar
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_play_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -3212,6 +3236,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -3343,6 +3368,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_lar
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -3474,6 +3500,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o:
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -3605,6 +3632,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_larg
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -3736,6 +3764,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -3867,6 +3896,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_left_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -3998,6 +4028,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -4129,6 +4160,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_corner_right_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -4260,6 +4292,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o:
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -4391,6 +4424,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_larg
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_1_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -4522,6 +4556,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o:
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -4653,6 +4688,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_larg
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_2_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -4784,6 +4820,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o:
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -4915,6 +4952,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_larg
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_cover_3_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -5046,6 +5084,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o: 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -5177,6 +5216,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_1_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -5308,6 +5348,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o: 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -5439,6 +5480,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_2_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -5570,6 +5612,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o: 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -5701,6 +5744,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_3_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -5832,6 +5876,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o: 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -5963,6 +6008,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_icon_4_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -6094,6 +6140,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -6225,6 +6272,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_list_border_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -6356,6 +6404,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o: /h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_logo.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -6487,6 +6536,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -6618,6 +6668,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_slider_knob_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -6749,6 +6800,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -6880,6 +6932,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -7011,6 +7064,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -7142,6 +7196,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_lar
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/assets/img_lv_demo_music_wave_top_large.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -7275,6 +7330,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o: /home/feng/xiaozhi
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -7408,6 +7464,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o: /home/feng/xi
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_list.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -7544,6 +7601,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o: /home/feng/xi
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/music/lv_demo_music_main.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -7675,6 +7733,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o: /home/feng/xiaoz
 lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/stress/lv_demo_stress.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/widgets/assets/img_clothes.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
@@ -7799,6 +7858,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o: /home/feng/
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_clothes.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/widgets/assets/img_demo_widgets_avatar.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
@@ -7923,6 +7983,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o:
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_demo_widgets_avatar.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/widgets/assets/img_lvgl_logo.c
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
@@ -8047,6 +8108,7 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o: /home/fen
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/benchmark/lv_demo_benchmark.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
@@ -8178,4 +8240,5 @@ lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o: /home/feng/xia
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 

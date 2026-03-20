@@ -1464,6 +1464,10 @@ stdint.h
 ../../../lvgl.h
 /home/feng/xiaozhi/work/app_sdk/lvgl/src/lvgl.h
 
+/home/feng/xiaozhi/work/app_sdk/lvgl/src/extra/lv_extra.c
+../lvgl.h
+/home/feng/xiaozhi/work/app_sdk/lvgl/src/lvgl.h
+
 /home/feng/xiaozhi/work/app_sdk/lvgl/src/extra/lv_extra.h
 layouts/lv_layouts.h
 /home/feng/xiaozhi/work/app_sdk/lvgl/src/extra/layouts/lv_layouts.h
@@ -2572,6 +2576,8 @@ lv_style.h
 
 /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_style_gen.h
 
+/home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_templ.c
+
 /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.c
 lv_timer.h
 /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
@@ -2679,6 +2685,12 @@ lv_txt.h
 /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
 stdint.h
 -
+
+/home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_utils.c
+stddef.h
+-
+lv_utils.h
+/home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_utils.h
 
 /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_utils.h
 stdint.h
@@ -2925,6 +2937,8 @@ string.h
 /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_internal.h
 ../core/lv_obj.h
 /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj.h
+
+/home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_objx_templ.c
 
 /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_roller.c
 lv_roller.h
