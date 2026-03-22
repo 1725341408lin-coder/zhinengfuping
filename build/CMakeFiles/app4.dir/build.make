@@ -70,9 +70,35 @@ CMakeFiles/app4.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/app4.dir/main.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/main.c -o CMakeFiles/app4.dir/main.c.s
 
+CMakeFiles/app4.dir/page_alarm.c.o: CMakeFiles/app4.dir/flags.make
+CMakeFiles/app4.dir/page_alarm.c.o: ../page_alarm.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/app4.dir/page_alarm.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/page_alarm.c.o   -c /home/feng/xiaozhi/work/app4/page_alarm.c
+
+CMakeFiles/app4.dir/page_alarm.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/app4.dir/page_alarm.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app4/page_alarm.c > CMakeFiles/app4.dir/page_alarm.c.i
+
+CMakeFiles/app4.dir/page_alarm.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/app4.dir/page_alarm.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/page_alarm.c -o CMakeFiles/app4.dir/page_alarm.c.s
+
+CMakeFiles/app4.dir/page_dialog.c.o: CMakeFiles/app4.dir/flags.make
+CMakeFiles/app4.dir/page_dialog.c.o: ../page_dialog.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/app4.dir/page_dialog.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/page_dialog.c.o   -c /home/feng/xiaozhi/work/app4/page_dialog.c
+
+CMakeFiles/app4.dir/page_dialog.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/app4.dir/page_dialog.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app4/page_dialog.c > CMakeFiles/app4.dir/page_dialog.c.i
+
+CMakeFiles/app4.dir/page_dialog.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/app4.dir/page_dialog.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/page_dialog.c -o CMakeFiles/app4.dir/page_dialog.c.s
+
 CMakeFiles/app4.dir/page_main.c.o: CMakeFiles/app4.dir/flags.make
 CMakeFiles/app4.dir/page_main.c.o: ../page_main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/app4.dir/page_main.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/app4.dir/page_main.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/page_main.c.o   -c /home/feng/xiaozhi/work/app4/page_main.c
 
 CMakeFiles/app4.dir/page_main.c.i: cmake_force
@@ -85,7 +111,7 @@ CMakeFiles/app4.dir/page_main.c.s: cmake_force
 
 CMakeFiles/app4.dir/page_setting.c.o: CMakeFiles/app4.dir/flags.make
 CMakeFiles/app4.dir/page_setting.c.o: ../page_setting.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/app4.dir/page_setting.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/app4.dir/page_setting.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/page_setting.c.o   -c /home/feng/xiaozhi/work/app4/page_setting.c
 
 CMakeFiles/app4.dir/page_setting.c.i: cmake_force
@@ -99,6 +125,8 @@ CMakeFiles/app4.dir/page_setting.c.s: cmake_force
 # Object files for target app4
 app4_OBJECTS = \
 "CMakeFiles/app4.dir/main.c.o" \
+"CMakeFiles/app4.dir/page_alarm.c.o" \
+"CMakeFiles/app4.dir/page_dialog.c.o" \
 "CMakeFiles/app4.dir/page_main.c.o" \
 "CMakeFiles/app4.dir/page_setting.c.o"
 
@@ -106,6 +134,8 @@ app4_OBJECTS = \
 app4_EXTERNAL_OBJECTS =
 
 app4: CMakeFiles/app4.dir/main.c.o
+app4: CMakeFiles/app4.dir/page_alarm.c.o
+app4: CMakeFiles/app4.dir/page_dialog.c.o
 app4: CMakeFiles/app4.dir/page_main.c.o
 app4: CMakeFiles/app4.dir/page_setting.c.o
 app4: CMakeFiles/app4.dir/build.make
@@ -117,7 +147,7 @@ app4: lvgl/liblvgl.a
 app4: lvgl/liblvgl.a
 app4: platform/src/liblvgl_porting.a
 app4: CMakeFiles/app4.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable app4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable app4"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/app4.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

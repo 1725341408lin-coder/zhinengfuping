@@ -5,6 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/home/feng/xiaozhi/work/app4/main.c" "/home/feng/xiaozhi/work/app4/build/CMakeFiles/app4.dir/main.c.o"
+  "/home/feng/xiaozhi/work/app4/page_alarm.c" "/home/feng/xiaozhi/work/app4/build/CMakeFiles/app4.dir/page_alarm.c.o"
+  "/home/feng/xiaozhi/work/app4/page_dialog.c" "/home/feng/xiaozhi/work/app4/build/CMakeFiles/app4.dir/page_dialog.c.o"
   "/home/feng/xiaozhi/work/app4/page_main.c" "/home/feng/xiaozhi/work/app4/build/CMakeFiles/app4.dir/page_main.c.o"
   "/home/feng/xiaozhi/work/app4/page_setting.c" "/home/feng/xiaozhi/work/app4/build/CMakeFiles/app4.dir/page_setting.c.o"
   )

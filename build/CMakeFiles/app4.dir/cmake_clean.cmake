@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/app4.dir/main.c.o"
+  "CMakeFiles/app4.dir/page_alarm.c.o"
+  "CMakeFiles/app4.dir/page_dialog.c.o"
   "CMakeFiles/app4.dir/page_main.c.o"
   "CMakeFiles/app4.dir/page_setting.c.o"
   "app4"

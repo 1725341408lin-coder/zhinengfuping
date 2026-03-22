@@ -19,7 +19,9 @@ int main() {
     
     font_init();
     //init_page_main();
-    init_page_setting();
+    //init_page_setting();
+    //init_page_alarm();
+    init_page_dialog();
     while (1) {
         lv_task_handler();
         //延时，保证cpu占有率不会过高

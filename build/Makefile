@@ -202,6 +202,60 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/main.c.s
 .PHONY : main.c.s
 
+page_alarm.o: page_alarm.c.o
+
+.PHONY : page_alarm.o
+
+# target to build an object file
+page_alarm.c.o:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_alarm.c.o
+.PHONY : page_alarm.c.o
+
+page_alarm.i: page_alarm.c.i
+
+.PHONY : page_alarm.i
+
+# target to preprocess a source file
+page_alarm.c.i:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_alarm.c.i
+.PHONY : page_alarm.c.i
+
+page_alarm.s: page_alarm.c.s
+
+.PHONY : page_alarm.s
+
+# target to generate assembly for a file
+page_alarm.c.s:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_alarm.c.s
+.PHONY : page_alarm.c.s
+
+page_dialog.o: page_dialog.c.o
+
+.PHONY : page_dialog.o
+
+# target to build an object file
+page_dialog.c.o:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_dialog.c.o
+.PHONY : page_dialog.c.o
+
+page_dialog.i: page_dialog.c.i
+
+.PHONY : page_dialog.i
+
+# target to preprocess a source file
+page_dialog.c.i:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_dialog.c.i
+.PHONY : page_dialog.c.i
+
+page_dialog.s: page_dialog.c.s
+
+.PHONY : page_dialog.s
+
+# target to generate assembly for a file
+page_dialog.c.s:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_dialog.c.s
+.PHONY : page_dialog.c.s
+
 page_main.o: page_main.c.o
 
 .PHONY : page_main.o
@@ -272,6 +326,12 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... page_alarm.o"
+	@echo "... page_alarm.i"
+	@echo "... page_alarm.s"
+	@echo "... page_dialog.o"
+	@echo "... page_dialog.i"
+	@echo "... page_dialog.s"
 	@echo "... page_main.o"
 	@echo "... page_main.i"
 	@echo "... page_main.s"
