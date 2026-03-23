@@ -11,17 +11,25 @@ extern void lv_port_indev_init(void);
 
 int main() {
     //LVGL框架初始化
-    lv_init();
+    //lv_init();
     //LVGL显示屏幕初始化
-    lv_port_disp_init(true);
+    //lv_port_disp_init(true);
     //LVGL输入设备初始化
-    lv_port_indev_init();
-    
-    font_init();
+    //lv_port_indev_init();
+    //字体初始化
+    //font_init();
+
+
+
+
     //init_page_main();
     //init_page_setting();
     //init_page_alarm();
-    init_page_dialog();
+    //init_page_dialog();
+    file_save_test();
+
+
+
     while (1) {
         lv_task_handler();
         //延时，保证cpu占有率不会过高

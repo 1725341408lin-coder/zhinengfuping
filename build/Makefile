@@ -175,6 +175,33 @@ font/fast:
 	$(MAKE) -f font/CMakeFiles/font.dir/build.make font/CMakeFiles/font.dir/build
 .PHONY : font/fast
 
+iotest.o: iotest.c.o
+
+.PHONY : iotest.o
+
+# target to build an object file
+iotest.c.o:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/iotest.c.o
+.PHONY : iotest.c.o
+
+iotest.i: iotest.c.i
+
+.PHONY : iotest.i
+
+# target to preprocess a source file
+iotest.c.i:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/iotest.c.i
+.PHONY : iotest.c.i
+
+iotest.s: iotest.c.s
+
+.PHONY : iotest.s
+
+# target to generate assembly for a file
+iotest.c.s:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/iotest.c.s
+.PHONY : iotest.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -323,6 +350,9 @@ help:
 	@echo "... lvgl_demos"
 	@echo "... lvgl_porting"
 	@echo "... font"
+	@echo "... iotest.o"
+	@echo "... iotest.i"
+	@echo "... iotest.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

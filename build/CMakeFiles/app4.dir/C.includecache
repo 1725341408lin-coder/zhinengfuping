@@ -1038,6 +1038,18 @@ res_conf.h
 
 ../res/res_conf.h
 
+/home/feng/xiaozhi/work/app4/iotest.c
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+fcntl.h
+-
+page_conf.h
+/home/feng/xiaozhi/work/app4/page_conf.h
+
 /home/feng/xiaozhi/work/app4/main.c
 unistd.h
 -
