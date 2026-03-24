@@ -186,7 +186,6 @@ set(CMAKE_C_COMPILER_ID "GNU")
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_C
   "LV_CONF_INCLUDE_SIMPLE"
-  "SIMULATOR_LINUX"
   )
 
 # The include file search paths:
@@ -250,9 +249,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "/home/feng/xiaozhi/work/app_sdk/lvgl/.."
   "/home/feng/xiaozhi/work/app_sdk/lvgl"
   "/home/feng/xiaozhi/work/app_sdk/lvgl/../platform/x86linux/include"
-  "/home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting"
-  "/home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device"
-  "/home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/../../../component/hal"
+  "/home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting"
   )
 
 # Targets to which this target links.

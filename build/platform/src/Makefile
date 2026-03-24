@@ -287,167 +287,194 @@ hal/em_hal_uart.c.s:
 	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.s
 .PHONY : hal/em_hal_uart.c.s
 
-porting/device/keyboard.o: porting/device/keyboard.c.o
+porting/g2d/sunxifb.o: porting/g2d/sunxifb.c.o
 
-.PHONY : porting/device/keyboard.o
-
-# target to build an object file
-porting/device/keyboard.c.o:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/device/keyboard.c.o
-.PHONY : porting/device/keyboard.c.o
-
-porting/device/keyboard.i: porting/device/keyboard.c.i
-
-.PHONY : porting/device/keyboard.i
-
-# target to preprocess a source file
-porting/device/keyboard.c.i:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/device/keyboard.c.i
-.PHONY : porting/device/keyboard.c.i
-
-porting/device/keyboard.s: porting/device/keyboard.c.s
-
-.PHONY : porting/device/keyboard.s
-
-# target to generate assembly for a file
-porting/device/keyboard.c.s:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/device/keyboard.c.s
-.PHONY : porting/device/keyboard.c.s
-
-porting/device/mouse.o: porting/device/mouse.c.o
-
-.PHONY : porting/device/mouse.o
+.PHONY : porting/g2d/sunxifb.o
 
 # target to build an object file
-porting/device/mouse.c.o:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse.c.o
-.PHONY : porting/device/mouse.c.o
+porting/g2d/sunxifb.c.o:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxifb.c.o
+.PHONY : porting/g2d/sunxifb.c.o
 
-porting/device/mouse.i: porting/device/mouse.c.i
+porting/g2d/sunxifb.i: porting/g2d/sunxifb.c.i
 
-.PHONY : porting/device/mouse.i
+.PHONY : porting/g2d/sunxifb.i
 
 # target to preprocess a source file
-porting/device/mouse.c.i:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse.c.i
-.PHONY : porting/device/mouse.c.i
+porting/g2d/sunxifb.c.i:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxifb.c.i
+.PHONY : porting/g2d/sunxifb.c.i
 
-porting/device/mouse.s: porting/device/mouse.c.s
+porting/g2d/sunxifb.s: porting/g2d/sunxifb.c.s
 
-.PHONY : porting/device/mouse.s
+.PHONY : porting/g2d/sunxifb.s
 
 # target to generate assembly for a file
-porting/device/mouse.c.s:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse.c.s
-.PHONY : porting/device/mouse.c.s
+porting/g2d/sunxifb.c.s:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxifb.c.s
+.PHONY : porting/g2d/sunxifb.c.s
 
-porting/device/mouse_cursor_icon.o: porting/device/mouse_cursor_icon.c.o
+porting/g2d/sunxig2d.o: porting/g2d/sunxig2d.c.o
 
-.PHONY : porting/device/mouse_cursor_icon.o
+.PHONY : porting/g2d/sunxig2d.o
 
 # target to build an object file
-porting/device/mouse_cursor_icon.c.o:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse_cursor_icon.c.o
-.PHONY : porting/device/mouse_cursor_icon.c.o
+porting/g2d/sunxig2d.c.o:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxig2d.c.o
+.PHONY : porting/g2d/sunxig2d.c.o
 
-porting/device/mouse_cursor_icon.i: porting/device/mouse_cursor_icon.c.i
+porting/g2d/sunxig2d.i: porting/g2d/sunxig2d.c.i
 
-.PHONY : porting/device/mouse_cursor_icon.i
+.PHONY : porting/g2d/sunxig2d.i
 
 # target to preprocess a source file
-porting/device/mouse_cursor_icon.c.i:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse_cursor_icon.c.i
-.PHONY : porting/device/mouse_cursor_icon.c.i
+porting/g2d/sunxig2d.c.i:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxig2d.c.i
+.PHONY : porting/g2d/sunxig2d.c.i
 
-porting/device/mouse_cursor_icon.s: porting/device/mouse_cursor_icon.c.s
+porting/g2d/sunxig2d.s: porting/g2d/sunxig2d.c.s
 
-.PHONY : porting/device/mouse_cursor_icon.s
+.PHONY : porting/g2d/sunxig2d.s
 
 # target to generate assembly for a file
-porting/device/mouse_cursor_icon.c.s:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse_cursor_icon.c.s
-.PHONY : porting/device/mouse_cursor_icon.c.s
+porting/g2d/sunxig2d.c.s:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxig2d.c.s
+.PHONY : porting/g2d/sunxig2d.c.s
 
-porting/device/mousewheel.o: porting/device/mousewheel.c.o
+porting/g2d/sunximem.o: porting/g2d/sunximem.c.o
 
-.PHONY : porting/device/mousewheel.o
+.PHONY : porting/g2d/sunximem.o
 
 # target to build an object file
-porting/device/mousewheel.c.o:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mousewheel.c.o
-.PHONY : porting/device/mousewheel.c.o
+porting/g2d/sunximem.c.o:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunximem.c.o
+.PHONY : porting/g2d/sunximem.c.o
 
-porting/device/mousewheel.i: porting/device/mousewheel.c.i
+porting/g2d/sunximem.i: porting/g2d/sunximem.c.i
 
-.PHONY : porting/device/mousewheel.i
+.PHONY : porting/g2d/sunximem.i
 
 # target to preprocess a source file
-porting/device/mousewheel.c.i:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mousewheel.c.i
-.PHONY : porting/device/mousewheel.c.i
+porting/g2d/sunximem.c.i:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunximem.c.i
+.PHONY : porting/g2d/sunximem.c.i
 
-porting/device/mousewheel.s: porting/device/mousewheel.c.s
+porting/g2d/sunximem.s: porting/g2d/sunximem.c.s
 
-.PHONY : porting/device/mousewheel.s
+.PHONY : porting/g2d/sunximem.s
 
 # target to generate assembly for a file
-porting/device/mousewheel.c.s:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mousewheel.c.s
-.PHONY : porting/device/mousewheel.c.s
+porting/g2d/sunximem.c.s:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunximem.c.s
+.PHONY : porting/g2d/sunximem.c.s
 
-porting/monitor.o: porting/monitor.c.o
+porting/lv_port_disp.o: porting/lv_port_disp.c.o
 
-.PHONY : porting/monitor.o
+.PHONY : porting/lv_port_disp.o
 
 # target to build an object file
-porting/monitor.c.o:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/monitor.c.o
-.PHONY : porting/monitor.c.o
+porting/lv_port_disp.c.o:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_disp.c.o
+.PHONY : porting/lv_port_disp.c.o
 
-porting/monitor.i: porting/monitor.c.i
+porting/lv_port_disp.i: porting/lv_port_disp.c.i
 
-.PHONY : porting/monitor.i
+.PHONY : porting/lv_port_disp.i
 
 # target to preprocess a source file
-porting/monitor.c.i:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/monitor.c.i
-.PHONY : porting/monitor.c.i
+porting/lv_port_disp.c.i:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_disp.c.i
+.PHONY : porting/lv_port_disp.c.i
 
-porting/monitor.s: porting/monitor.c.s
+porting/lv_port_disp.s: porting/lv_port_disp.c.s
 
-.PHONY : porting/monitor.s
+.PHONY : porting/lv_port_disp.s
 
 # target to generate assembly for a file
-porting/monitor.c.s:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/monitor.c.s
-.PHONY : porting/monitor.c.s
+porting/lv_port_disp.c.s:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_disp.c.s
+.PHONY : porting/lv_port_disp.c.s
 
-porting/simulator_init.o: porting/simulator_init.c.o
+porting/lv_port_indev.o: porting/lv_port_indev.c.o
 
-.PHONY : porting/simulator_init.o
+.PHONY : porting/lv_port_indev.o
 
 # target to build an object file
-porting/simulator_init.c.o:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/simulator_init.c.o
-.PHONY : porting/simulator_init.c.o
+porting/lv_port_indev.c.o:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_indev.c.o
+.PHONY : porting/lv_port_indev.c.o
 
-porting/simulator_init.i: porting/simulator_init.c.i
+porting/lv_port_indev.i: porting/lv_port_indev.c.i
 
-.PHONY : porting/simulator_init.i
+.PHONY : porting/lv_port_indev.i
 
 # target to preprocess a source file
-porting/simulator_init.c.i:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/simulator_init.c.i
-.PHONY : porting/simulator_init.c.i
+porting/lv_port_indev.c.i:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_indev.c.i
+.PHONY : porting/lv_port_indev.c.i
 
-porting/simulator_init.s: porting/simulator_init.c.s
+porting/lv_port_indev.s: porting/lv_port_indev.c.s
 
-.PHONY : porting/simulator_init.s
+.PHONY : porting/lv_port_indev.s
 
 # target to generate assembly for a file
-porting/simulator_init.c.s:
-	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/simulator_init.c.s
-.PHONY : porting/simulator_init.c.s
+porting/lv_port_indev.c.s:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_indev.c.s
+.PHONY : porting/lv_port_indev.c.s
+
+porting/lv_port_tick.o: porting/lv_port_tick.c.o
+
+.PHONY : porting/lv_port_tick.o
+
+# target to build an object file
+porting/lv_port_tick.c.o:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_tick.c.o
+.PHONY : porting/lv_port_tick.c.o
+
+porting/lv_port_tick.i: porting/lv_port_tick.c.i
+
+.PHONY : porting/lv_port_tick.i
+
+# target to preprocess a source file
+porting/lv_port_tick.c.i:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_tick.c.i
+.PHONY : porting/lv_port_tick.c.i
+
+porting/lv_port_tick.s: porting/lv_port_tick.c.s
+
+.PHONY : porting/lv_port_tick.s
+
+# target to generate assembly for a file
+porting/lv_port_tick.c.s:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_tick.c.s
+.PHONY : porting/lv_port_tick.c.s
+
+utils/base_utils.o: utils/base_utils.c.o
+
+.PHONY : utils/base_utils.o
+
+# target to build an object file
+utils/base_utils.c.o:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/utils/base_utils.c.o
+.PHONY : utils/base_utils.c.o
+
+utils/base_utils.i: utils/base_utils.c.i
+
+.PHONY : utils/base_utils.i
+
+# target to preprocess a source file
+utils/base_utils.c.i:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/utils/base_utils.c.i
+.PHONY : utils/base_utils.c.i
+
+utils/base_utils.s: utils/base_utils.c.s
+
+.PHONY : utils/base_utils.s
+
+# target to generate assembly for a file
+utils/base_utils.c.s:
+	cd /home/feng/xiaozhi/work/app4/build && $(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/utils/base_utils.c.s
+.PHONY : utils/base_utils.c.s
 
 # Help Target
 help:
@@ -476,24 +503,27 @@ help:
 	@echo "... hal/em_hal_uart.o"
 	@echo "... hal/em_hal_uart.i"
 	@echo "... hal/em_hal_uart.s"
-	@echo "... porting/device/keyboard.o"
-	@echo "... porting/device/keyboard.i"
-	@echo "... porting/device/keyboard.s"
-	@echo "... porting/device/mouse.o"
-	@echo "... porting/device/mouse.i"
-	@echo "... porting/device/mouse.s"
-	@echo "... porting/device/mouse_cursor_icon.o"
-	@echo "... porting/device/mouse_cursor_icon.i"
-	@echo "... porting/device/mouse_cursor_icon.s"
-	@echo "... porting/device/mousewheel.o"
-	@echo "... porting/device/mousewheel.i"
-	@echo "... porting/device/mousewheel.s"
-	@echo "... porting/monitor.o"
-	@echo "... porting/monitor.i"
-	@echo "... porting/monitor.s"
-	@echo "... porting/simulator_init.o"
-	@echo "... porting/simulator_init.i"
-	@echo "... porting/simulator_init.s"
+	@echo "... porting/g2d/sunxifb.o"
+	@echo "... porting/g2d/sunxifb.i"
+	@echo "... porting/g2d/sunxifb.s"
+	@echo "... porting/g2d/sunxig2d.o"
+	@echo "... porting/g2d/sunxig2d.i"
+	@echo "... porting/g2d/sunxig2d.s"
+	@echo "... porting/g2d/sunximem.o"
+	@echo "... porting/g2d/sunximem.i"
+	@echo "... porting/g2d/sunximem.s"
+	@echo "... porting/lv_port_disp.o"
+	@echo "... porting/lv_port_disp.i"
+	@echo "... porting/lv_port_disp.s"
+	@echo "... porting/lv_port_indev.o"
+	@echo "... porting/lv_port_indev.i"
+	@echo "... porting/lv_port_indev.s"
+	@echo "... porting/lv_port_tick.o"
+	@echo "... porting/lv_port_tick.i"
+	@echo "... porting/lv_port_tick.s"
+	@echo "... utils/base_utils.o"
+	@echo "... utils/base_utils.i"
+	@echo "... utils/base_utils.s"
 .PHONY : help
 
 

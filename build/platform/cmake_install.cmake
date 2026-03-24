@@ -1,4 +1,4 @@
-# Install script for directory: /home/feng/xiaozhi/work/app_sdk/platform/x86linux
+# Install script for directory: /home/feng/xiaozhi/work/app_sdk/platform/t113
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 # Is this installation the result of a crosscompile?
 if(NOT DEFINED CMAKE_CROSSCOMPILING)
-  set(CMAKE_CROSSCOMPILING "FALSE")
+  set(CMAKE_CROSSCOMPILING "TRUE")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)

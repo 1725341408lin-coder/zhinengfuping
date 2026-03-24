@@ -1,0 +1,2 @@
+/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-ar qc libosal.a  CMakeFiles/osal.dir/osal_queue.c.o CMakeFiles/osal.dir/osal_thread.c.o
+/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-ranlib libosal.a

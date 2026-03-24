@@ -57,6 +57,8 @@ all: CMakeFiles/app4.dir/all
 all: lvgl/all
 all: platform/all
 all: font/all
+all: osal/all
+all: wifi/all
 
 .PHONY : all
 
@@ -65,6 +67,8 @@ clean: CMakeFiles/app4.dir/clean
 clean: lvgl/clean
 clean: platform/clean
 clean: font/clean
+clean: osal/clean
+clean: wifi/clean
 
 .PHONY : clean
 
@@ -72,6 +76,8 @@ clean: font/clean
 preinstall: lvgl/preinstall
 preinstall: platform/preinstall
 preinstall: font/preinstall
+preinstall: osal/preinstall
+preinstall: wifi/preinstall
 
 .PHONY : preinstall
 
@@ -80,7 +86,10 @@ preinstall: font/preinstall
 
 # All Build rule for target.
 CMakeFiles/app4.dir/all: lvgl/CMakeFiles/lvgl.dir/all
+CMakeFiles/app4.dir/all: platform/src/CMakeFiles/lvgl_porting.dir/all
 CMakeFiles/app4.dir/all: font/CMakeFiles/font.dir/all
+CMakeFiles/app4.dir/all: osal/CMakeFiles/osal.dir/all
+CMakeFiles/app4.dir/all: wifi/CMakeFiles/wifi.dir/all
 	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/depend
 	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=1,2 "Built target app4"
@@ -88,7 +97,7 @@ CMakeFiles/app4.dir/all: font/CMakeFiles/font.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/app4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 75
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 77
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/app4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 0
 .PHONY : CMakeFiles/app4.dir/rule
@@ -130,12 +139,12 @@ lvgl/preinstall:
 lvgl/CMakeFiles/lvgl.dir/all: platform/src/CMakeFiles/lvgl_porting.dir/all
 	$(MAKE) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/depend
 	$(MAKE) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70 "Built target lvgl"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69 "Built target lvgl"
 .PHONY : lvgl/CMakeFiles/lvgl.dir/all
 
 # Build rule for subdir invocation for target.
 lvgl/CMakeFiles/lvgl.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 72
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 71
 	$(MAKE) -f CMakeFiles/Makefile2 lvgl/CMakeFiles/lvgl.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 0
 .PHONY : lvgl/CMakeFiles/lvgl.dir/rule
@@ -157,12 +166,12 @@ lvgl/CMakeFiles/lvgl.dir/clean:
 lvgl/CMakeFiles/lvgl_demos.dir/all:
 	$(MAKE) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/depend
 	$(MAKE) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95 "Built target lvgl_demos"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92 "Built target lvgl_demos"
 .PHONY : lvgl/CMakeFiles/lvgl_demos.dir/all
 
 # Build rule for subdir invocation for target.
 lvgl/CMakeFiles/lvgl_demos.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 25
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 23
 	$(MAKE) -f CMakeFiles/Makefile2 lvgl/CMakeFiles/lvgl_demos.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 0
 .PHONY : lvgl/CMakeFiles/lvgl_demos.dir/rule
@@ -220,7 +229,7 @@ platform/src/preinstall:
 platform/src/CMakeFiles/lvgl_porting.dir/all:
 	$(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/depend
 	$(MAKE) -f platform/src/CMakeFiles/lvgl_porting.dir/build.make platform/src/CMakeFiles/lvgl_porting.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=96,97,98,99,100 "Built target lvgl_porting"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=93,94,95,96,97 "Built target lvgl_porting"
 .PHONY : platform/src/CMakeFiles/lvgl_porting.dir/all
 
 # Build rule for subdir invocation for target.
@@ -263,6 +272,7 @@ font/preinstall:
 
 # All Build rule for target.
 font/CMakeFiles/font.dir/all: lvgl/CMakeFiles/lvgl.dir/all
+font/CMakeFiles/font.dir/all: platform/src/CMakeFiles/lvgl_porting.dir/all
 	$(MAKE) -f font/CMakeFiles/font.dir/build.make font/CMakeFiles/font.dir/depend
 	$(MAKE) -f font/CMakeFiles/font.dir/build.make font/CMakeFiles/font.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=3 "Built target font"
@@ -270,7 +280,7 @@ font/CMakeFiles/font.dir/all: lvgl/CMakeFiles/lvgl.dir/all
 
 # Build rule for subdir invocation for target.
 font/CMakeFiles/font.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 73
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 72
 	$(MAKE) -f CMakeFiles/Makefile2 font/CMakeFiles/font.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 0
 .PHONY : font/CMakeFiles/font.dir/rule
@@ -284,6 +294,96 @@ font: font/CMakeFiles/font.dir/rule
 font/CMakeFiles/font.dir/clean:
 	$(MAKE) -f font/CMakeFiles/font.dir/build.make font/CMakeFiles/font.dir/clean
 .PHONY : font/CMakeFiles/font.dir/clean
+
+#=============================================================================
+# Directory level rules for directory osal
+
+# Recursive "all" directory target.
+osal/all: osal/CMakeFiles/osal.dir/all
+
+.PHONY : osal/all
+
+# Recursive "clean" directory target.
+osal/clean: osal/CMakeFiles/osal.dir/clean
+
+.PHONY : osal/clean
+
+# Recursive "preinstall" directory target.
+osal/preinstall:
+
+.PHONY : osal/preinstall
+
+#=============================================================================
+# Target rules for target osal/CMakeFiles/osal.dir
+
+# All Build rule for target.
+osal/CMakeFiles/osal.dir/all:
+	$(MAKE) -f osal/CMakeFiles/osal.dir/build.make osal/CMakeFiles/osal.dir/depend
+	$(MAKE) -f osal/CMakeFiles/osal.dir/build.make osal/CMakeFiles/osal.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=98 "Built target osal"
+.PHONY : osal/CMakeFiles/osal.dir/all
+
+# Build rule for subdir invocation for target.
+osal/CMakeFiles/osal.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 osal/CMakeFiles/osal.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 0
+.PHONY : osal/CMakeFiles/osal.dir/rule
+
+# Convenience name for target.
+osal: osal/CMakeFiles/osal.dir/rule
+
+.PHONY : osal
+
+# clean rule for target.
+osal/CMakeFiles/osal.dir/clean:
+	$(MAKE) -f osal/CMakeFiles/osal.dir/build.make osal/CMakeFiles/osal.dir/clean
+.PHONY : osal/CMakeFiles/osal.dir/clean
+
+#=============================================================================
+# Directory level rules for directory wifi
+
+# Recursive "all" directory target.
+wifi/all: wifi/CMakeFiles/wifi.dir/all
+
+.PHONY : wifi/all
+
+# Recursive "clean" directory target.
+wifi/clean: wifi/CMakeFiles/wifi.dir/clean
+
+.PHONY : wifi/clean
+
+# Recursive "preinstall" directory target.
+wifi/preinstall:
+
+.PHONY : wifi/preinstall
+
+#=============================================================================
+# Target rules for target wifi/CMakeFiles/wifi.dir
+
+# All Build rule for target.
+wifi/CMakeFiles/wifi.dir/all: osal/CMakeFiles/osal.dir/all
+	$(MAKE) -f wifi/CMakeFiles/wifi.dir/build.make wifi/CMakeFiles/wifi.dir/depend
+	$(MAKE) -f wifi/CMakeFiles/wifi.dir/build.make wifi/CMakeFiles/wifi.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=99,100 "Built target wifi"
+.PHONY : wifi/CMakeFiles/wifi.dir/all
+
+# Build rule for subdir invocation for target.
+wifi/CMakeFiles/wifi.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 3
+	$(MAKE) -f CMakeFiles/Makefile2 wifi/CMakeFiles/wifi.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/feng/xiaozhi/work/app4/build/CMakeFiles 0
+.PHONY : wifi/CMakeFiles/wifi.dir/rule
+
+# Convenience name for target.
+wifi: wifi/CMakeFiles/wifi.dir/rule
+
+.PHONY : wifi
+
+# clean rule for target.
+wifi/CMakeFiles/wifi.dir/clean:
+	$(MAKE) -f wifi/CMakeFiles/wifi.dir/build.make wifi/CMakeFiles/wifi.dir/clean
+.PHONY : wifi/CMakeFiles/wifi.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

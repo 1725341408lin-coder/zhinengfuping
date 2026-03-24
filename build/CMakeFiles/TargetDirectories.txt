@@ -13,3 +13,9 @@
 /home/feng/xiaozhi/work/app4/build/font/CMakeFiles/rebuild_cache.dir
 /home/feng/xiaozhi/work/app4/build/font/CMakeFiles/font.dir
 /home/feng/xiaozhi/work/app4/build/font/CMakeFiles/edit_cache.dir
+/home/feng/xiaozhi/work/app4/build/osal/CMakeFiles/rebuild_cache.dir
+/home/feng/xiaozhi/work/app4/build/osal/CMakeFiles/osal.dir
+/home/feng/xiaozhi/work/app4/build/osal/CMakeFiles/edit_cache.dir
+/home/feng/xiaozhi/work/app4/build/wifi/CMakeFiles/rebuild_cache.dir
+/home/feng/xiaozhi/work/app4/build/wifi/CMakeFiles/wifi.dir
+/home/feng/xiaozhi/work/app4/build/wifi/CMakeFiles/edit_cache.dir

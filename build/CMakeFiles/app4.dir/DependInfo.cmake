@@ -10,13 +10,13 @@ set(CMAKE_DEPENDS_CHECK_C
   "/home/feng/xiaozhi/work/app4/page_dialog.c" "/home/feng/xiaozhi/work/app4/build/CMakeFiles/app4.dir/page_dialog.c.o"
   "/home/feng/xiaozhi/work/app4/page_main.c" "/home/feng/xiaozhi/work/app4/build/CMakeFiles/app4.dir/page_main.c.o"
   "/home/feng/xiaozhi/work/app4/page_setting.c" "/home/feng/xiaozhi/work/app4/build/CMakeFiles/app4.dir/page_setting.c.o"
+  "/home/feng/xiaozhi/work/app4/wpa_manager.c" "/home/feng/xiaozhi/work/app4/build/CMakeFiles/app4.dir/wpa_manager.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_C
   "LV_CONF_INCLUDE_SIMPLE"
-  "SIMULATOR_LINUX"
   )
 
 # The include file search paths:
@@ -27,8 +27,11 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   ".././res/image"
   "../../app_sdk/lvgl"
   "../../app_sdk/lvgl/demos"
-  "../../app_sdk/platform/x86linux/src/porting"
+  "../../app_sdk/platform/t113/src/porting"
   "../../app_sdk/component/font"
+  "../../app_sdk/component/wifi"
+  "../../app_sdk/component/osal"
+  "../../app_sdk/platform/t113/include"
   "/home/feng/xiaozhi/work/app_sdk/lvgl/.."
   "/home/feng/xiaozhi/work/app_sdk/lvgl"
   "/home/feng/xiaozhi/work/app_sdk/lvgl/src"
@@ -88,9 +91,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "/home/feng/xiaozhi/work/app_sdk/lvgl/src/misc"
   "/home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets"
   "/home/feng/xiaozhi/work/app_sdk/lvgl/../platform/x86linux/include"
-  "/home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting"
-  "/home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device"
-  "/home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/../../../component/hal"
+  "/home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting"
   )
 
 # Targets to which this target links.
@@ -98,6 +99,8 @@ set(CMAKE_TARGET_LINKED_INFO_FILES
   "/home/feng/xiaozhi/work/app4/build/lvgl/CMakeFiles/lvgl.dir/DependInfo.cmake"
   "/home/feng/xiaozhi/work/app4/build/font/CMakeFiles/font.dir/DependInfo.cmake"
   "/home/feng/xiaozhi/work/app4/build/platform/src/CMakeFiles/lvgl_porting.dir/DependInfo.cmake"
+  "/home/feng/xiaozhi/work/app4/build/wifi/CMakeFiles/wifi.dir/DependInfo.cmake"
+  "/home/feng/xiaozhi/work/app4/build/osal/CMakeFiles/osal.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

@@ -1,0 +1,73 @@
+## WiFi回调机制 - 简洁总结
+
+### 1. 回调函数是什么？
+**快递员打电话通知你取件** = 模块状态变化时调用你的函数
+
+### 2. 四步工作流程
+
+| 步骤 | 做什么 | 在哪里 | 代码 |
+|------|--------|--------|------|
+| **① 定义格式** | 规定回调函数长什么样 | .h文件 | `typedef void (* callback_t)(int status);` |
+| **② 存储地址** | 预留变量存函数地址 | .c文件顶部 | `static callback_t saved_cb = NULL;` |
+| **③ 注册函数** | 让用户传入他的函数 | .c文件 | `void register(callback_t cb) { saved_cb = cb; }` |
+| **④ 调用函数** | 状态变化时执行 | .c文件事件循环 | `if(saved_cb) saved_cb(status);` |
+
+### 3. 两个状态的区别
+
+| 状态 | 含义 | 值 |
+|------|------|-----|
+| `WPA_WIFI_STATUS_E` | WiFi总开关 | CLOSE / OPEN |
+| `WPA_WIFI_CONNECT_STATUS_E` | 连接状态 | INACTIVE / SCANNING / DISCONNECT / CONNECT / WRONG_KEY |
+
+**你的代码**：连接状态正常使用，开关状态定义了但未使用。
+
+### 4. 关键代码对应关系
+
+```c
+// 存储变量（.c顶部）
+static connect_status_callback_fun connect_status_func = NULL;
+
+// 注册函数（存地址）
+void wpa_manager_add_callback(..., connect_status_callback_fun f) {
+    connect_status_func = f;  // 保存用户函数地址
+}
+
+// 调用函数（事件线程）
+if (connect_status_func != NULL)
+    connect_status_func(g_connect_status);  // 执行用户函数
+```
+
+### 5. 你的代码现状
+
+- ✅ 有回调机制框架
+- ✅ 有事件处理逻辑
+- ❌ **没有用户注册回调** → `connect_status_func` 一直是 `NULL` → 回调永远不会执行
+- ❌ WiFi开关状态定义了但未使用
+
+### 6. 要让回调生效需要添加
+
+```c
+// 用户代码（在其他文件中）
+void my_handler(WPA_WIFI_CONNECT_STATUS_E status) {
+    printf("状态变了: %d\n", status);  // ← 这就是执行的内容
+}
+
+int main() {
+    wpa_manager_open();
+    wpa_manager_add_callback(NULL, my_handler);  // ← 注册！
+}
+```
+
+### 7. 一句话总结
+**回调就是：模块定义格式→预留位置→提供注册接口→用户传入函数→状态变化时自动调用用户函数。你的代码有框架，但没人注册，所以回调没内容。**
+
+
+时序很重要：确保 wpa_supplicant 启动并连接成功后再发送命令
+缓冲区要够大：SCAN_RESULTS 等命令需要较大的缓冲区
+不要打断连接：连接过程中不要发送 SCAN 命令
+充分利用事件机制：使用事件线程和回调函数，而不是手动轮询
+添加调试信息：打印每个命令和回复，便于定位问题
+检查返回值：每个关键命令都要检查返回值
+重置长度参数：每次调用前都要重置 reply_len
+保存配置：配置完成后记得 SAVE_CONFIG
+

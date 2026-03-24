@@ -57,195 +57,210 @@ include platform/src/CMakeFiles/lvgl_porting.dir/progress.make
 # Include the compile flags for this target's objects.
 include platform/src/CMakeFiles/lvgl_porting.dir/flags.make
 
-platform/src/CMakeFiles/lvgl_porting.dir/porting/monitor.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
-platform/src/CMakeFiles/lvgl_porting.dir/porting/monitor.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/monitor.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/porting/monitor.c.o"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/porting/monitor.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/monitor.c
+platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_disp.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
+platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_disp.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_port_disp.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_disp.c.o"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/porting/lv_port_disp.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_port_disp.c
 
-platform/src/CMakeFiles/lvgl_porting.dir/porting/monitor.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/porting/monitor.c.i"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/monitor.c > CMakeFiles/lvgl_porting.dir/porting/monitor.c.i
+platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_disp.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/porting/lv_port_disp.c.i"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_port_disp.c > CMakeFiles/lvgl_porting.dir/porting/lv_port_disp.c.i
 
-platform/src/CMakeFiles/lvgl_porting.dir/porting/monitor.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/porting/monitor.c.s"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/monitor.c -o CMakeFiles/lvgl_porting.dir/porting/monitor.c.s
+platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_disp.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/porting/lv_port_disp.c.s"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_port_disp.c -o CMakeFiles/lvgl_porting.dir/porting/lv_port_disp.c.s
 
-platform/src/CMakeFiles/lvgl_porting.dir/porting/simulator_init.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
-platform/src/CMakeFiles/lvgl_porting.dir/porting/simulator_init.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/simulator_init.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/porting/simulator_init.c.o"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/porting/simulator_init.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/simulator_init.c
+platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_indev.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
+platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_indev.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_port_indev.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_indev.c.o"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/porting/lv_port_indev.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_port_indev.c
 
-platform/src/CMakeFiles/lvgl_porting.dir/porting/simulator_init.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/porting/simulator_init.c.i"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/simulator_init.c > CMakeFiles/lvgl_porting.dir/porting/simulator_init.c.i
+platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_indev.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/porting/lv_port_indev.c.i"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_port_indev.c > CMakeFiles/lvgl_porting.dir/porting/lv_port_indev.c.i
 
-platform/src/CMakeFiles/lvgl_porting.dir/porting/simulator_init.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/porting/simulator_init.c.s"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/simulator_init.c -o CMakeFiles/lvgl_porting.dir/porting/simulator_init.c.s
+platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_indev.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/porting/lv_port_indev.c.s"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_port_indev.c -o CMakeFiles/lvgl_porting.dir/porting/lv_port_indev.c.s
+
+platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_tick.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
+platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_tick.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_port_tick.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_tick.c.o"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/porting/lv_port_tick.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_port_tick.c
+
+platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_tick.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/porting/lv_port_tick.c.i"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_port_tick.c > CMakeFiles/lvgl_porting.dir/porting/lv_port_tick.c.i
+
+platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_tick.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/porting/lv_port_tick.c.s"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_port_tick.c -o CMakeFiles/lvgl_porting.dir/porting/lv_port_tick.c.s
+
+platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxifb.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
+platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxifb.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/g2d/sunxifb.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxifb.c.o"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/porting/g2d/sunxifb.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/g2d/sunxifb.c
+
+platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxifb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/porting/g2d/sunxifb.c.i"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/g2d/sunxifb.c > CMakeFiles/lvgl_porting.dir/porting/g2d/sunxifb.c.i
+
+platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxifb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/porting/g2d/sunxifb.c.s"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/g2d/sunxifb.c -o CMakeFiles/lvgl_porting.dir/porting/g2d/sunxifb.c.s
+
+platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxig2d.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
+platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxig2d.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/g2d/sunxig2d.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxig2d.c.o"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/porting/g2d/sunxig2d.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/g2d/sunxig2d.c
+
+platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxig2d.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/porting/g2d/sunxig2d.c.i"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/g2d/sunxig2d.c > CMakeFiles/lvgl_porting.dir/porting/g2d/sunxig2d.c.i
+
+platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxig2d.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/porting/g2d/sunxig2d.c.s"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/g2d/sunxig2d.c -o CMakeFiles/lvgl_porting.dir/porting/g2d/sunxig2d.c.s
+
+platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunximem.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
+platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunximem.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/g2d/sunximem.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunximem.c.o"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/porting/g2d/sunximem.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/g2d/sunximem.c
+
+platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunximem.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/porting/g2d/sunximem.c.i"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/g2d/sunximem.c > CMakeFiles/lvgl_porting.dir/porting/g2d/sunximem.c.i
+
+platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunximem.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/porting/g2d/sunximem.c.s"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/g2d/sunximem.c -o CMakeFiles/lvgl_porting.dir/porting/g2d/sunximem.c.s
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
-platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_audio.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.o"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_audio.c
+platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_audio.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.o"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_audio.c
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.i"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_audio.c > CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.i
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_audio.c > CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.i
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.s"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_audio.c -o CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.s
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_audio.c -o CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.s
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
-platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_brightness.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.o"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_brightness.c
+platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_brightness.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.o"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_brightness.c
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.i"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_brightness.c > CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.i
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_brightness.c > CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.i
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.s"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_brightness.c -o CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.s
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_brightness.c -o CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.s
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
-platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_console.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.o"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_console.c
+platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_console.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.o"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_console.c
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.i"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_console.c > CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.i
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_console.c > CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.i
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.s"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_console.c -o CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.s
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_console.c -o CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.s
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
-platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_system.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.o"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_system.c
+platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_system.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.o"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_system.c
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.i"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_system.c > CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.i
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_system.c > CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.i
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.s"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_system.c -o CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.s
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_system.c -o CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.s
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
-platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_time.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.o"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_time.c
+platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_time.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.o"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_time.c
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.i"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_time.c > CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.i
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_time.c > CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.i
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.s"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_time.c -o CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.s
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_time.c -o CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.s
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
-platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_uart.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.o"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_uart.c
+platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_uart.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.o"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_uart.c
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.i"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_uart.c > CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.i
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_uart.c > CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.i
 
 platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.s"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/hal/em_hal_uart.c -o CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.s
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/t113/src/hal/em_hal_uart.c -o CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.s
 
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/keyboard.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/keyboard.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/keyboard.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/porting/device/keyboard.c.o"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/porting/device/keyboard.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/keyboard.c
+platform/src/CMakeFiles/lvgl_porting.dir/utils/base_utils.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
+platform/src/CMakeFiles/lvgl_porting.dir/utils/base_utils.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/utils/base_utils.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/utils/base_utils.c.o"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/utils/base_utils.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/t113/src/utils/base_utils.c
 
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/keyboard.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/porting/device/keyboard.c.i"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/keyboard.c > CMakeFiles/lvgl_porting.dir/porting/device/keyboard.c.i
+platform/src/CMakeFiles/lvgl_porting.dir/utils/base_utils.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/utils/base_utils.c.i"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/t113/src/utils/base_utils.c > CMakeFiles/lvgl_porting.dir/utils/base_utils.c.i
 
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/keyboard.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/porting/device/keyboard.c.s"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/keyboard.c -o CMakeFiles/lvgl_porting.dir/porting/device/keyboard.c.s
-
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/mouse.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse.c.o"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/porting/device/mouse.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/mouse.c
-
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/porting/device/mouse.c.i"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/mouse.c > CMakeFiles/lvgl_porting.dir/porting/device/mouse.c.i
-
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/porting/device/mouse.c.s"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/mouse.c -o CMakeFiles/lvgl_porting.dir/porting/device/mouse.c.s
-
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse_cursor_icon.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse_cursor_icon.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/mouse_cursor_icon.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse_cursor_icon.c.o"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/porting/device/mouse_cursor_icon.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/mouse_cursor_icon.c
-
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse_cursor_icon.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/porting/device/mouse_cursor_icon.c.i"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/mouse_cursor_icon.c > CMakeFiles/lvgl_porting.dir/porting/device/mouse_cursor_icon.c.i
-
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse_cursor_icon.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/porting/device/mouse_cursor_icon.c.s"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/mouse_cursor_icon.c -o CMakeFiles/lvgl_porting.dir/porting/device/mouse_cursor_icon.c.s
-
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mousewheel.c.o: platform/src/CMakeFiles/lvgl_porting.dir/flags.make
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mousewheel.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/mousewheel.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mousewheel.c.o"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lvgl_porting.dir/porting/device/mousewheel.c.o   -c /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/mousewheel.c
-
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mousewheel.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lvgl_porting.dir/porting/device/mousewheel.c.i"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/mousewheel.c > CMakeFiles/lvgl_porting.dir/porting/device/mousewheel.c.i
-
-platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mousewheel.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/porting/device/mousewheel.c.s"
-	cd /home/feng/xiaozhi/work/app4/build/platform/src && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/device/mousewheel.c -o CMakeFiles/lvgl_porting.dir/porting/device/mousewheel.c.s
+platform/src/CMakeFiles/lvgl_porting.dir/utils/base_utils.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lvgl_porting.dir/utils/base_utils.c.s"
+	cd /home/feng/xiaozhi/work/app4/build/platform/src && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/platform/t113/src/utils/base_utils.c -o CMakeFiles/lvgl_porting.dir/utils/base_utils.c.s
 
 # Object files for target lvgl_porting
 lvgl_porting_OBJECTS = \
-"CMakeFiles/lvgl_porting.dir/porting/monitor.c.o" \
-"CMakeFiles/lvgl_porting.dir/porting/simulator_init.c.o" \
+"CMakeFiles/lvgl_porting.dir/porting/lv_port_disp.c.o" \
+"CMakeFiles/lvgl_porting.dir/porting/lv_port_indev.c.o" \
+"CMakeFiles/lvgl_porting.dir/porting/lv_port_tick.c.o" \
+"CMakeFiles/lvgl_porting.dir/porting/g2d/sunxifb.c.o" \
+"CMakeFiles/lvgl_porting.dir/porting/g2d/sunxig2d.c.o" \
+"CMakeFiles/lvgl_porting.dir/porting/g2d/sunximem.c.o" \
 "CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.o" \
 "CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.o" \
 "CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.o" \
 "CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.o" \
 "CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.o" \
 "CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.o" \
-"CMakeFiles/lvgl_porting.dir/porting/device/keyboard.c.o" \
-"CMakeFiles/lvgl_porting.dir/porting/device/mouse.c.o" \
-"CMakeFiles/lvgl_porting.dir/porting/device/mouse_cursor_icon.c.o" \
-"CMakeFiles/lvgl_porting.dir/porting/device/mousewheel.c.o"
+"CMakeFiles/lvgl_porting.dir/utils/base_utils.c.o"
 
 # External object files for target lvgl_porting
 lvgl_porting_EXTERNAL_OBJECTS =
 
-platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/porting/monitor.c.o
-platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/porting/simulator_init.c.o
+platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_disp.c.o
+platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_indev.c.o
+platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/porting/lv_port_tick.c.o
+platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxifb.c.o
+platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunxig2d.c.o
+platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/porting/g2d/sunximem.c.o
 platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_audio.c.o
 platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_brightness.c.o
 platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_console.c.o
 platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_system.c.o
 platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_time.c.o
 platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/hal/em_hal_uart.c.o
-platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/porting/device/keyboard.c.o
-platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse.c.o
-platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mouse_cursor_icon.c.o
-platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/porting/device/mousewheel.c.o
+platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/utils/base_utils.c.o
 platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/build.make
 platform/src/liblvgl_porting.a: platform/src/CMakeFiles/lvgl_porting.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking C static library liblvgl_porting.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking C static library liblvgl_porting.a"
 	cd /home/feng/xiaozhi/work/app4/build/platform/src && $(CMAKE_COMMAND) -P CMakeFiles/lvgl_porting.dir/cmake_clean_target.cmake
 	cd /home/feng/xiaozhi/work/app4/build/platform/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lvgl_porting.dir/link.txt --verbose=$(VERBOSE)
 
@@ -259,6 +274,6 @@ platform/src/CMakeFiles/lvgl_porting.dir/clean:
 .PHONY : platform/src/CMakeFiles/lvgl_porting.dir/clean
 
 platform/src/CMakeFiles/lvgl_porting.dir/depend:
-	cd /home/feng/xiaozhi/work/app4/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/feng/xiaozhi/work/app4 /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src /home/feng/xiaozhi/work/app4/build /home/feng/xiaozhi/work/app4/build/platform/src /home/feng/xiaozhi/work/app4/build/platform/src/CMakeFiles/lvgl_porting.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/feng/xiaozhi/work/app4/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/feng/xiaozhi/work/app4 /home/feng/xiaozhi/work/app_sdk/platform/t113/src /home/feng/xiaozhi/work/app4/build /home/feng/xiaozhi/work/app4/build/platform/src /home/feng/xiaozhi/work/app4/build/platform/src/CMakeFiles/lvgl_porting.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : platform/src/CMakeFiles/lvgl_porting.dir/depend
 

@@ -175,6 +175,32 @@ font/fast:
 	$(MAKE) -f font/CMakeFiles/font.dir/build.make font/CMakeFiles/font.dir/build
 .PHONY : font/fast
 
+#=============================================================================
+# Target rules for targets named osal
+
+# Build rule for target.
+osal: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 osal
+.PHONY : osal
+
+# fast build rule for target.
+osal/fast:
+	$(MAKE) -f osal/CMakeFiles/osal.dir/build.make osal/CMakeFiles/osal.dir/build
+.PHONY : osal/fast
+
+#=============================================================================
+# Target rules for targets named wifi
+
+# Build rule for target.
+wifi: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 wifi
+.PHONY : wifi
+
+# fast build rule for target.
+wifi/fast:
+	$(MAKE) -f wifi/CMakeFiles/wifi.dir/build.make wifi/CMakeFiles/wifi.dir/build
+.PHONY : wifi/fast
+
 iotest.o: iotest.c.o
 
 .PHONY : iotest.o
@@ -337,6 +363,33 @@ page_setting.c.s:
 	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/page_setting.c.s
 .PHONY : page_setting.c.s
 
+wpa_manager.o: wpa_manager.c.o
+
+.PHONY : wpa_manager.o
+
+# target to build an object file
+wpa_manager.c.o:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/wpa_manager.c.o
+.PHONY : wpa_manager.c.o
+
+wpa_manager.i: wpa_manager.c.i
+
+.PHONY : wpa_manager.i
+
+# target to preprocess a source file
+wpa_manager.c.i:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/wpa_manager.c.i
+.PHONY : wpa_manager.c.i
+
+wpa_manager.s: wpa_manager.c.s
+
+.PHONY : wpa_manager.s
+
+# target to generate assembly for a file
+wpa_manager.c.s:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/wpa_manager.c.s
+.PHONY : wpa_manager.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -350,6 +403,8 @@ help:
 	@echo "... lvgl_demos"
 	@echo "... lvgl_porting"
 	@echo "... font"
+	@echo "... osal"
+	@echo "... wifi"
 	@echo "... iotest.o"
 	@echo "... iotest.i"
 	@echo "... iotest.s"
@@ -368,6 +423,9 @@ help:
 	@echo "... page_setting.o"
 	@echo "... page_setting.i"
 	@echo "... page_setting.s"
+	@echo "... wpa_manager.o"
+	@echo "... wpa_manager.i"
+	@echo "... wpa_manager.s"
 .PHONY : help
 
 

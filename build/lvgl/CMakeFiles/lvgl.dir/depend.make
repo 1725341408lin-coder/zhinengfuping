@@ -54,7 +54,7 @@ lvgl/CMakeFiles/lvgl.dir/src/core/lv_disp.c.o: /home/feng/xiaozhi/work/app_sdk/l
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_disp.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_disp.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_disp.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/core/lv_disp.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/core/lv_disp.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_event.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.c
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_event.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -107,7 +107,7 @@ lvgl/CMakeFiles/lvgl.dir/src/core/lv_event.c.o: /home/feng/xiaozhi/work/app_sdk/
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_event.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_event.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_event.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/core/lv_event.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/core/lv_event.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_group.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_group.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.c
@@ -161,7 +161,7 @@ lvgl/CMakeFiles/lvgl.dir/src/core/lv_group.c.o: /home/feng/xiaozhi/work/app_sdk/
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_group.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_group.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_group.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/core/lv_group.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/core/lv_group.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -218,7 +218,7 @@ lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev.c.o: /home/feng/xiaozhi/work/app_sdk/
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev_scroll.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev_scroll.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -272,7 +272,7 @@ lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev_scroll.c.o: /home/feng/xiaozhi/work/a
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev_scroll.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev_scroll.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev_scroll.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev_scroll.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/core/lv_indev_scroll.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -405,7 +405,7 @@ lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj.c.o: /home/feng/xiaozhi/work/app_sdk/lv
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_class.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_class.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -458,7 +458,7 @@ lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_class.c.o: /home/feng/xiaozhi/work/app_
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_class.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_class.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_class.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_class.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_class.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_draw.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_draw.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -513,7 +513,7 @@ lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_draw.c.o: /home/feng/xiaozhi/work/app_s
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_draw.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_draw.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_draw.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_draw.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_draw.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_pos.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_pos.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -569,7 +569,7 @@ lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_pos.c.o: /home/feng/xiaozhi/work/app_sd
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_pos.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_pos.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_pos.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_pos.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_pos.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_scroll.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_scroll.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -625,7 +625,7 @@ lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_scroll.c.o: /home/feng/xiaozhi/work/app
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_scroll.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_scroll.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_scroll.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_scroll.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_scroll.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -680,7 +680,7 @@ lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style.c.o: /home/feng/xiaozhi/work/app_
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style_gen.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style_gen.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -732,7 +732,7 @@ lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style_gen.c.o: /home/feng/xiaozhi/work/
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style_gen.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style_gen.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style_gen.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style_gen.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_style_gen.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_tree.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_tree.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -787,7 +787,7 @@ lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_tree.c.o: /home/feng/xiaozhi/work/app_s
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_tree.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_tree.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_tree.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_tree.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/core/lv_obj_tree.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_refr.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_refr.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -846,7 +846,7 @@ lvgl/CMakeFiles/lvgl.dir/src/core/lv_refr.c.o: /home/feng/xiaozhi/work/app_sdk/l
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_refr.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_refr.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_refr.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_label.h
-lvgl/CMakeFiles/lvgl.dir/src/core/lv_refr.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/core/lv_refr.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_theme.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_theme.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -972,7 +972,7 @@ lvgl/CMakeFiles/lvgl.dir/src/core/lv_theme.c.o: /home/feng/xiaozhi/work/app_sdk/
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_theme.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_theme.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/core/lv_theme.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/core/lv_theme.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/core/lv_theme.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw.c
@@ -1017,7 +1017,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw.c.o: /home/feng/xiaozhi/work/app_sdk/l
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw.h
@@ -1054,7 +1054,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_arc.c.o: /home/feng/xiaozhi/work/app_s
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_style_gen.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_arc.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_arc.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -1107,7 +1107,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_img.c.o: /home/feng/xiaozhi/work/app_s
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_img.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_img.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_label.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_label.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -1160,7 +1160,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_label.c.o: /home/feng/xiaozhi/work/app
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_label.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_label.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_label.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_label.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_label.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_layer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_layer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -1213,7 +1213,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_layer.c.o: /home/feng/xiaozhi/work/app
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_layer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_layer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_layer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_layer.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_layer.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -1266,7 +1266,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_line.c.o: /home/feng/xiaozhi/work/app_
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_line.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_line.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_mask.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_mask.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw.h
@@ -1307,7 +1307,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_mask.c.o: /home/feng/xiaozhi/work/app_
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_mask.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_mask.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_mask.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_mask.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_mask.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_rect.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_rect.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw.h
@@ -1344,7 +1344,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_rect.c.o: /home/feng/xiaozhi/work/app_
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_rect.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_style_gen.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_rect.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_rect.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_rect.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_rect.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_transform.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_transform.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw.h
@@ -1381,7 +1381,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_transform.c.o: /home/feng/xiaozhi/work
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_transform.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_style_gen.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_transform.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_transform.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_transform.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_transform.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_triangle.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_triangle.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw.h
@@ -1418,7 +1418,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_triangle.c.o: /home/feng/xiaozhi/work/
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_triangle.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_style_gen.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_triangle.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_triangle.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_triangle.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_triangle.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_buf.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw_img.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_buf.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_img_buf.c
@@ -1442,7 +1442,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_buf.c.o: /home/feng/xiaozhi/work/app_sd
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_buf.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_style_gen.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_buf.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_buf.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_buf.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_buf.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_cache.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_cache.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw_img.h
@@ -1473,7 +1473,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_cache.c.o: /home/feng/xiaozhi/work/app_
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_cache.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_cache.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_cache.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_cache.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_cache.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_decoder.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_decoder.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw_img.h
@@ -1504,7 +1504,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_decoder.c.o: /home/feng/xiaozhi/work/ap
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_decoder.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_decoder.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_decoder.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_decoder.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/lv_img_decoder.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -1564,7 +1564,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl.c.o: /home/feng/xiaozhi/work/a
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -1624,7 +1624,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_arc.c.o: /home/feng/xiaozhi/wo
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_arc.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_arc.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_bg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_bg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -1685,7 +1685,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_bg.c.o: /home/feng/xiaozhi/wor
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_bg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_bg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_bg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_bg.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_bg.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_composite.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_composite.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -1747,7 +1747,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_composite.c.o: /home/feng/xiao
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_composite.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_composite.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_composite.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_composite.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_composite.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -1811,7 +1811,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_img.c.o: /home/feng/xiaozhi/wo
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_img.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_img.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_label.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_label.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -1873,7 +1873,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_label.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_label.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_label.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_label.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_utils.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_label.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_label.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_layer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_layer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -1934,7 +1934,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_layer.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_layer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_layer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_layer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_layer.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_layer.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -1995,7 +1995,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_line.c.o: /home/feng/xiaozhi/w
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_line.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_line.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_mask.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_mask.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -2053,7 +2053,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_mask.c.o: /home/feng/xiaozhi/w
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_mask.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_mask.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_mask.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_mask.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_mask.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_polygon.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_polygon.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -2113,7 +2113,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_polygon.c.o: /home/feng/xiaozh
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_polygon.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_polygon.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_polygon.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_polygon.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_polygon.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_rect.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_rect.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -2177,7 +2177,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_rect.c.o: /home/feng/xiaozhi/w
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_rect.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_rect.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_rect.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_rect.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_rect.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_stack_blur.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_stack_blur.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.h
@@ -2189,7 +2189,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_stack_blur.c.o: /home/feng/xia
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_stack_blur.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_math.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_stack_blur.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_mem.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_stack_blur.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_stack_blur.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_stack_blur.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_texture_cache.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_texture_cache.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -2248,7 +2248,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_texture_cache.c.o: /home/feng/
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_texture_cache.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_texture_cache.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_texture_cache.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_texture_cache.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_texture_cache.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_utils.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_utils.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -2305,7 +2305,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_utils.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_utils.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_utils.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_utils.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_utils.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl_utils.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -2361,7 +2361,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.o: /home/feng
 lvgl/CMakeFiles/lvgl.dir/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw.h
@@ -2406,7 +2406,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw.c.o: /home/feng/xiaozhi/work/app
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw.h
@@ -2451,7 +2451,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_arc.c.o: /home/feng/xiaozhi/work
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_arc.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_arc.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_blend.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_blend.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -2506,7 +2506,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_blend.c.o: /home/feng/xiaozhi/wo
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_blend.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_blend.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_blend.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_blend.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_blend.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_dither.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_dither.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/sw/lv_draw_sw_dither.c
@@ -2529,7 +2529,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_dither.c.o: /home/feng/xiaozhi/w
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_dither.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_style_gen.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_dither.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_dither.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_dither.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_dither.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_gradient.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_gradient.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw_mask.h
@@ -2561,7 +2561,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_gradient.c.o: /home/feng/xiaozhi
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_gradient.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_gradient.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_gradient.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_gradient.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_gradient.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -2616,7 +2616,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_img.c.o: /home/feng/xiaozhi/work
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_img.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_img.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_layer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_layer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -2671,7 +2671,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_layer.c.o: /home/feng/xiaozhi/wo
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_layer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_layer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_layer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_layer.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_layer.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_letter.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_letter.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -2726,7 +2726,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_letter.c.o: /home/feng/xiaozhi/w
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_letter.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_letter.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_letter.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_letter.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_letter.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -2781,7 +2781,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_line.c.o: /home/feng/xiaozhi/wor
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_line.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_line.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_polygon.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_polygon.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw.h
@@ -2826,7 +2826,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_polygon.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_polygon.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_polygon.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_polygon.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_polygon.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_polygon.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_rect.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_rect.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -2882,7 +2882,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_rect.c.o: /home/feng/xiaozhi/wor
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_rect.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_rect.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt_ap.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_rect.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_rect.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_rect.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_transform.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_transform.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -2937,7 +2937,7 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_transform.c.o: /home/feng/xiaozh
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_transform.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_transform.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_transform.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_transform.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_transform.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/flex/lv_flex.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/flex/lv_flex.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -2992,7 +2992,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/flex/lv_flex.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/flex/lv_flex.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/flex/lv_flex.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/flex/lv_flex.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/flex/lv_flex.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/flex/lv_flex.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/grid/lv_grid.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/grid/lv_grid.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -3047,7 +3047,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/grid/lv_grid.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/grid/lv_grid.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/grid/lv_grid.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/grid/lv_grid.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/grid/lv_grid.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/layouts/grid/lv_grid.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/bmp/lv_bmp.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/bmp/lv_bmp.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -3173,7 +3173,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/bmp/lv_bmp.c.o: /home/feng/xiaozhi/work/
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/bmp/lv_bmp.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/bmp/lv_bmp.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/bmp/lv_bmp.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/bmp/lv_bmp.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/bmp/lv_bmp.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/ffmpeg/lv_ffmpeg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/ffmpeg/lv_ffmpeg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -3299,7 +3299,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/ffmpeg/lv_ffmpeg.c.o: /home/feng/xiaozhi
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/ffmpeg/lv_ffmpeg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/ffmpeg/lv_ffmpeg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/ffmpeg/lv_ffmpeg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/ffmpeg/lv_ffmpeg.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/ffmpeg/lv_ffmpeg.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/freetype/lv_freetype.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/freetype/lv_freetype.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -3425,9 +3425,9 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/freetype/lv_freetype.c.o: /home/feng/xia
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/freetype/lv_freetype.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/freetype/lv_freetype.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/freetype/lv_freetype.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/freetype/lv_freetype.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/freetype/lv_freetype.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/include/freetype/config/ftheader.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/freetype/lv_freetype.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/include/ft2build.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/freetype/lv_freetype.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_fatfs.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_fatfs.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -3553,7 +3553,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_fatfs.c.o: /home/feng/xiaozh
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_fatfs.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_fatfs.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_fatfs.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_fatfs.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_fatfs.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_littlefs.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_littlefs.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -3679,7 +3679,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_littlefs.c.o: /home/feng/xia
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_littlefs.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_littlefs.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_littlefs.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_littlefs.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_littlefs.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_posix.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_posix.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -3805,7 +3805,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_posix.c.o: /home/feng/xiaozh
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_posix.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_posix.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_posix.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_posix.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_posix.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_stdio.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_stdio.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -3931,7 +3931,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_stdio.c.o: /home/feng/xiaozh
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_stdio.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_stdio.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_stdio.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_stdio.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_stdio.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_win32.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_win32.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -4057,7 +4057,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_win32.c.o: /home/feng/xiaozh
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_win32.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_win32.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_win32.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_win32.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/fsdrv/lv_fs_win32.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/gifdec.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/extra/libs/gif/gifdec.c
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/gifdec.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/extra/libs/gif/gifdec.h
@@ -4070,7 +4070,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/gifdec.c.o: /home/feng/xiaozhi/work/
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/gifdec.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_math.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/gifdec.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_mem.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/gifdec.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/gifdec.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/gifdec.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/lv_gif.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/lv_gif.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -4196,7 +4196,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/lv_gif.c.o: /home/feng/xiaozhi/work/
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/lv_gif.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/lv_gif.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/lv_gif.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/lv_gif.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/gif/lv_gif.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lodepng.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lodepng.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -4323,7 +4323,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lodepng.c.o: /home/feng/xiaozhi/work
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lodepng.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lodepng.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lodepng.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lodepng.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lodepng.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lv_png.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lv_png.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -4450,7 +4450,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lv_png.c.o: /home/feng/xiaozhi/work/
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lv_png.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lv_png.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lv_png.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lv_png.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/png/lv_png.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/lv_qrcode.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/lv_qrcode.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -4577,7 +4577,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/lv_qrcode.c.o: /home/feng/xiaozhi
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/lv_qrcode.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/lv_qrcode.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/lv_qrcode.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/lv_qrcode.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/lv_qrcode.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/qrcodegen.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/extra/libs/qrcode/qrcodegen.c
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/qrcodegen.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/extra/libs/qrcode/qrcodegen.h
@@ -4587,7 +4587,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/qrcodegen.c.o: /home/feng/xiaozhi
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/qrcodegen.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_log.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/qrcodegen.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_mem.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/qrcodegen.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/qrcodegen.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/qrcode/qrcodegen.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/rlottie/lv_rlottie.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/rlottie/lv_rlottie.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -4713,7 +4713,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/rlottie/lv_rlottie.c.o: /home/feng/xiaoz
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/rlottie/lv_rlottie.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/rlottie/lv_rlottie.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/rlottie/lv_rlottie.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/rlottie/lv_rlottie.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/rlottie/lv_rlottie.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/sjpg/lv_sjpg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/sjpg/lv_sjpg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -4841,14 +4841,14 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/libs/sjpg/lv_sjpg.c.o: /home/feng/xiaozhi/wor
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/sjpg/lv_sjpg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/sjpg/lv_sjpg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/sjpg/lv_sjpg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/sjpg/lv_sjpg.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/sjpg/lv_sjpg.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/sjpg/tjpgd.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/extra/libs/sjpg/tjpgd.c
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/sjpg/tjpgd.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/extra/libs/sjpg/tjpgd.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/sjpg/tjpgd.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/extra/libs/sjpg/tjpgdcnf.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/sjpg/tjpgd.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_internal.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/libs/sjpg/tjpgd.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_kconfig.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/libs/sjpg/tjpgd.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/libs/sjpg/tjpgd.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/lv_extra.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/extra/lv_extra.c
 lvgl/CMakeFiles/lvgl.dir/src/extra/lv_extra.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lvgl.h
@@ -4904,7 +4904,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/others/fragment/lv_fragment.c.o: /home/feng/x
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/fragment/lv_fragment.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/fragment/lv_fragment.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/fragment/lv_fragment.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/others/fragment/lv_fragment.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/others/fragment/lv_fragment.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/fragment/lv_fragment_manager.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/fragment/lv_fragment_manager.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -4957,7 +4957,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/others/fragment/lv_fragment_manager.c.o: /hom
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/fragment/lv_fragment_manager.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/fragment/lv_fragment_manager.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/fragment/lv_fragment_manager.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/others/fragment/lv_fragment_manager.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/others/fragment/lv_fragment_manager.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/gridnav/lv_gridnav.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/gridnav/lv_gridnav.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -5011,7 +5011,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/others/gridnav/lv_gridnav.c.o: /home/feng/xia
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/gridnav/lv_gridnav.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/gridnav/lv_gridnav.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/gridnav/lv_gridnav.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/others/gridnav/lv_gridnav.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/others/gridnav/lv_gridnav.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/ime/lv_ime_pinyin.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/ime/lv_ime_pinyin.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -5137,7 +5137,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/others/ime/lv_ime_pinyin.c.o: /home/feng/xiao
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/ime/lv_ime_pinyin.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/ime/lv_ime_pinyin.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/ime/lv_ime_pinyin.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/others/ime/lv_ime_pinyin.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/others/ime/lv_ime_pinyin.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/imgfont/lv_imgfont.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/imgfont/lv_imgfont.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -5263,7 +5263,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/others/imgfont/lv_imgfont.c.o: /home/feng/xia
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/imgfont/lv_imgfont.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/imgfont/lv_imgfont.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/imgfont/lv_imgfont.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/others/imgfont/lv_imgfont.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/others/imgfont/lv_imgfont.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/monkey/lv_monkey.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/monkey/lv_monkey.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -5389,7 +5389,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/others/monkey/lv_monkey.c.o: /home/feng/xiaoz
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/monkey/lv_monkey.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/monkey/lv_monkey.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/monkey/lv_monkey.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/others/monkey/lv_monkey.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/others/monkey/lv_monkey.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/msg/lv_msg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/msg/lv_msg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -5442,7 +5442,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/others/msg/lv_msg.c.o: /home/feng/xiaozhi/wor
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/msg/lv_msg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/msg/lv_msg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/msg/lv_msg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/others/msg/lv_msg.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/others/msg/lv_msg.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/snapshot/lv_snapshot.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/snapshot/lv_snapshot.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -5498,7 +5498,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/others/snapshot/lv_snapshot.c.o: /home/feng/x
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/snapshot/lv_snapshot.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/snapshot/lv_snapshot.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/others/snapshot/lv_snapshot.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/others/snapshot/lv_snapshot.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/others/snapshot/lv_snapshot.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/themes/basic/lv_theme_basic.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/themes/basic/lv_theme_basic.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -5625,7 +5625,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/themes/basic/lv_theme_basic.c.o: /home/feng/x
 lvgl/CMakeFiles/lvgl.dir/src/extra/themes/basic/lv_theme_basic.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/themes/basic/lv_theme_basic.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/themes/basic/lv_theme_basic.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/themes/basic/lv_theme_basic.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/themes/basic/lv_theme_basic.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/themes/default/lv_theme_default.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/themes/default/lv_theme_default.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -5752,7 +5752,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/themes/default/lv_theme_default.c.o: /home/fe
 lvgl/CMakeFiles/lvgl.dir/src/extra/themes/default/lv_theme_default.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/themes/default/lv_theme_default.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/themes/default/lv_theme_default.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/themes/default/lv_theme_default.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/themes/default/lv_theme_default.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/themes/mono/lv_theme_mono.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/themes/mono/lv_theme_mono.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -5879,7 +5879,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/themes/mono/lv_theme_mono.c.o: /home/feng/xia
 lvgl/CMakeFiles/lvgl.dir/src/extra/themes/mono/lv_theme_mono.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/themes/mono/lv_theme_mono.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/themes/mono/lv_theme_mono.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/themes/mono/lv_theme_mono.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/themes/mono/lv_theme_mono.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/animimg/lv_animimg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/animimg/lv_animimg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -6005,7 +6005,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/animimg/lv_animimg.c.o: /home/feng/xi
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/animimg/lv_animimg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/animimg/lv_animimg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/animimg/lv_animimg.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/animimg/lv_animimg.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/animimg/lv_animimg.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -6131,7 +6131,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar.c.o: /home/feng/
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_arrow.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_arrow.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -6189,7 +6189,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_arrow.c.o
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_arrow.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_btn.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_arrow.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_btnmatrix.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_arrow.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_label.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_arrow.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_arrow.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -6247,7 +6247,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_dropdown.
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_btnmatrix.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_dropdown.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_label.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/chart/lv_chart.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/chart/lv_chart.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -6373,7 +6373,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/chart/lv_chart.c.o: /home/feng/xiaozh
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/chart/lv_chart.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/chart/lv_chart.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/chart/lv_chart.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/chart/lv_chart.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/chart/lv_chart.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/colorwheel/lv_colorwheel.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/colorwheel/lv_colorwheel.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -6499,7 +6499,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/colorwheel/lv_colorwheel.c.o: /home/f
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/colorwheel/lv_colorwheel.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/colorwheel/lv_colorwheel.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/colorwheel/lv_colorwheel.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/colorwheel/lv_colorwheel.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/colorwheel/lv_colorwheel.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/imgbtn/lv_imgbtn.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/imgbtn/lv_imgbtn.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -6625,7 +6625,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/imgbtn/lv_imgbtn.c.o: /home/feng/xiao
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/imgbtn/lv_imgbtn.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/imgbtn/lv_imgbtn.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/imgbtn/lv_imgbtn.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/imgbtn/lv_imgbtn.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/imgbtn/lv_imgbtn.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/keyboard/lv_keyboard.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/keyboard/lv_keyboard.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -6681,7 +6681,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/keyboard/lv_keyboard.c.o: /home/feng/
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/keyboard/lv_keyboard.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_btnmatrix.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/keyboard/lv_keyboard.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_label.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/keyboard/lv_keyboard.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/keyboard/lv_keyboard.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/keyboard/lv_keyboard.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/led/lv_led.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/led/lv_led.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -6807,7 +6807,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/led/lv_led.c.o: /home/feng/xiaozhi/wo
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/led/lv_led.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/led/lv_led.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/led/lv_led.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/led/lv_led.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/led/lv_led.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/list/lv_list.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/list/lv_list.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -6866,7 +6866,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/list/lv_list.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/list/lv_list.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_btn.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/list/lv_list.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_img.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/list/lv_list.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_label.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/list/lv_list.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/list/lv_list.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/menu/lv_menu.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/menu/lv_menu.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -6923,7 +6923,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/menu/lv_menu.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/menu/lv_menu.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_btn.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/menu/lv_menu.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_img.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/menu/lv_menu.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_label.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/menu/lv_menu.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/menu/lv_menu.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/meter/lv_meter.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/meter/lv_meter.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -7049,7 +7049,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/meter/lv_meter.c.o: /home/feng/xiaozh
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/meter/lv_meter.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/meter/lv_meter.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/meter/lv_meter.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/meter/lv_meter.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/meter/lv_meter.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/msgbox/lv_msgbox.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/msgbox/lv_msgbox.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -7175,7 +7175,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/msgbox/lv_msgbox.c.o: /home/feng/xiao
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/msgbox/lv_msgbox.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/msgbox/lv_msgbox.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/msgbox/lv_msgbox.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/msgbox/lv_msgbox.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/msgbox/lv_msgbox.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/span/lv_span.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/span/lv_span.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -7301,7 +7301,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/span/lv_span.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/span/lv_span.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/span/lv_span.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/span/lv_span.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/span/lv_span.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/span/lv_span.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinbox/lv_spinbox.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinbox/lv_spinbox.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -7427,7 +7427,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinbox/lv_spinbox.c.o: /home/feng/xi
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinbox/lv_spinbox.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinbox/lv_spinbox.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinbox/lv_spinbox.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinbox/lv_spinbox.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinbox/lv_spinbox.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinner/lv_spinner.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinner/lv_spinner.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -7553,7 +7553,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinner/lv_spinner.c.o: /home/feng/xi
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinner/lv_spinner.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinner/lv_spinner.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinner/lv_spinner.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinner/lv_spinner.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/spinner/lv_spinner.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tabview/lv_tabview.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tabview/lv_tabview.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -7679,7 +7679,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tabview/lv_tabview.c.o: /home/feng/xi
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tabview/lv_tabview.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tabview/lv_tabview.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tabview/lv_tabview.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tabview/lv_tabview.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tabview/lv_tabview.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tileview/lv_tileview.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tileview/lv_tileview.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -7733,7 +7733,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tileview/lv_tileview.c.o: /home/feng/
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tileview/lv_tileview.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tileview/lv_tileview.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tileview/lv_tileview.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tileview/lv_tileview.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/tileview/lv_tileview.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/win/lv_win.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/win/lv_win.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -7859,7 +7859,7 @@ lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/win/lv_win.c.o: /home/feng/xiaozhi/wo
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/win/lv_win.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/win/lv_win.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/win/lv_win.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/win/lv_win.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/extra/widgets/win/lv_win.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/font/lv_font.c
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/font/lv_font.h
@@ -7872,7 +7872,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font.c.o: /home/feng/xiaozhi/work/app_sdk/l
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_mem.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_utils.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_dejavu_16_persian_hebrew.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_dejavu_16_persian_hebrew.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -7998,7 +7998,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_dejavu_16_persian_hebrew.c.o: /home/fe
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_dejavu_16_persian_hebrew.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_dejavu_16_persian_hebrew.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_dejavu_16_persian_hebrew.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_dejavu_16_persian_hebrew.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_dejavu_16_persian_hebrew.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_fmt_txt.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_fmt_txt.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw_mask.h
@@ -8024,7 +8024,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_fmt_txt.c.o: /home/feng/xiaozhi/work/a
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_fmt_txt.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_fmt_txt.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_fmt_txt.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_utils.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_fmt_txt.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_fmt_txt.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_loader.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/font/lv_font_loader.c
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_loader.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/font/lv_font_loader.h
@@ -8032,7 +8032,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_loader.c.o: /home/feng/xiaozhi/work/ap
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_loader.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_kconfig.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_loader.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_loader.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_fs.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_loader.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_loader.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_10.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_10.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -8158,7 +8158,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_10.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_10.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_10.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_10.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_10.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_10.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -8284,7 +8284,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12_subpx.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12_subpx.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -8410,7 +8410,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12_subpx.c.o: /home/feng/xi
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12_subpx.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12_subpx.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12_subpx.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12_subpx.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_12_subpx.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_14.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_14.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -8536,7 +8536,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_14.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_14.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_14.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_14.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_14.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_14.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -8662,7 +8662,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_16.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_16.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_16.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_18.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_18.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -8788,7 +8788,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_18.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_18.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_18.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_18.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_18.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_18.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_20.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_20.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -8914,7 +8914,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_20.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_20.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_20.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_20.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_20.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_20.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_22.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_22.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -9040,7 +9040,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_22.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_22.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_22.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_22.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_22.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_22.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_24.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_24.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -9166,7 +9166,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_24.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_24.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_24.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_24.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_24.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_24.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_26.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_26.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -9292,7 +9292,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_26.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_26.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_26.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_26.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_26.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_26.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -9418,7 +9418,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28_compressed.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28_compressed.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -9544,7 +9544,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28_compressed.c.o: /home/fe
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28_compressed.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28_compressed.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28_compressed.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28_compressed.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_28_compressed.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_30.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_30.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -9670,7 +9670,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_30.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_30.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_30.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_30.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_30.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_30.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_32.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_32.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -9796,7 +9796,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_32.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_32.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_32.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_32.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_32.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_32.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_34.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_34.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -9922,7 +9922,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_34.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_34.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_34.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_34.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_34.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_34.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_36.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_36.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -10048,7 +10048,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_36.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_36.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_36.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_36.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_36.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_36.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_38.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_38.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -10174,7 +10174,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_38.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_38.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_38.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_38.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_38.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_38.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_40.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_40.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -10300,7 +10300,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_40.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_40.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_40.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_40.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_40.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_40.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_42.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_42.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -10426,7 +10426,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_42.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_42.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_42.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_42.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_42.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_42.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_44.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_44.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -10552,7 +10552,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_44.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_44.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_44.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_44.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_44.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_44.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_46.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_46.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -10678,7 +10678,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_46.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_46.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_46.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_46.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_46.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_46.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_48.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_48.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -10804,7 +10804,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_48.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_48.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_48.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_48.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_48.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_48.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_8.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_8.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -10930,7 +10930,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_8.c.o: /home/feng/xiaozhi/w
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_8.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_8.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_8.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_8.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_montserrat_8.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_simsun_16_cjk.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_simsun_16_cjk.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -11056,7 +11056,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_simsun_16_cjk.c.o: /home/feng/xiaozhi/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_simsun_16_cjk.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_simsun_16_cjk.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_simsun_16_cjk.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_simsun_16_cjk.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_simsun_16_cjk.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -11182,7 +11182,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_16.c.o: /home/feng/xiaozhi/work
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_16.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_16.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_16.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_8.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/lvgl.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_8.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
@@ -11308,7 +11308,7 @@ lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_8.c.o: /home/feng/xiaozhi/work/
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_8.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_8.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
 lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_8.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_8.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/font/lv_font_unscii_8.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_disp.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_disp.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -11374,7 +11374,7 @@ lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_disp.c.o: /home/feng/xiaozhi/work/app_sd
 lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_disp.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_disp.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_disp.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_disp.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_disp.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_indev.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_indev.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -11428,13 +11428,13 @@ lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_indev.c.o: /home/feng/xiaozhi/work/app_s
 lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_indev.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_indev.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_indev.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_indev.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_indev.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_tick.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/hal/lv_hal_tick.c
 lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_tick.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/hal/lv_hal_tick.h
 lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_tick.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_internal.h
 lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_tick.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_kconfig.h
-lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_tick.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/hal/lv_hal_tick.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw_mask.h
@@ -11457,7 +11457,7 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim.c.o: /home/feng/xiaozhi/work/app_sdk/l
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_mem.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim_timeline.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_internal.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim_timeline.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_kconfig.h
@@ -11468,14 +11468,14 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim_timeline.c.o: /home/feng/xiaozhi/work/
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim_timeline.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_log.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim_timeline.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_mem.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim_timeline.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim_timeline.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim_timeline.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_area.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_internal.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_area.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_kconfig.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_area.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_area.c
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_area.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_area.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_area.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_math.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_area.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_area.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_async.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/hal/lv_hal_tick.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_async.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_internal.h
@@ -11485,7 +11485,7 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_async.c.o: /home/feng/xiaozhi/work/app_sdk/
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_async.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_mem.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_async.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_async.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_async.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_async.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_bidi.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/font/lv_font.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_bidi.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/font/lv_symbol_def.h
@@ -11498,7 +11498,7 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_bidi.c.o: /home/feng/xiaozhi/work/app_sdk/l
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_bidi.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_printf.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_bidi.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_bidi.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_bidi.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_bidi.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_color.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_internal.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_color.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_kconfig.h
@@ -11509,7 +11509,7 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_color.c.o: /home/feng/xiaozhi/work/app_sdk/
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_color.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_math.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_color.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_mem.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_color.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_color.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_color.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_fs.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_fs.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw_mask.h
@@ -11531,7 +11531,7 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_fs.c.o: /home/feng/xiaozhi/work/app_sdk/lvg
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_fs.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_mem.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_fs.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_fs.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_fs.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_fs.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_gc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_gc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw_mask.h
@@ -11553,7 +11553,7 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_gc.c.o: /home/feng/xiaozhi/work/app_sdk/lvg
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_gc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_mem.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_gc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_gc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_gc.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_gc.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_ll.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_internal.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_ll.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_kconfig.h
@@ -11561,7 +11561,7 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_ll.c.o: /home/feng/xiaozhi/work/app_sdk/lvg
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_ll.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_ll.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_ll.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_mem.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_ll.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_ll.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_ll.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_log.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/hal/lv_hal_tick.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_log.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_internal.h
@@ -11570,7 +11570,7 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_log.c.o: /home/feng/xiaozhi/work/app_sdk/lv
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_log.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_log.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_log.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_printf.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_log.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_log.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_log.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_lru.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_internal.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_lru.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_kconfig.h
@@ -11581,13 +11581,13 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_lru.c.o: /home/feng/xiaozhi/work/app_sdk/lv
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_lru.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_math.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_lru.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_mem.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_lru.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_lru.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_lru.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_math.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_internal.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_math.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_kconfig.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_math.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_math.c
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_math.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_math.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_math.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_math.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_mem.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_mem.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw_mask.h
@@ -11610,14 +11610,14 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_mem.c.o: /home/feng/xiaozhi/work/app_sdk/lv
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_mem.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_mem.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_tlsf.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_mem.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_mem.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_mem.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_printf.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_internal.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_printf.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_kconfig.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_printf.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_printf.c
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_printf.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_printf.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_printf.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_printf.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_printf.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw_mask.h
@@ -11647,7 +11647,7 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style.c.o: /home/feng/xiaozhi/work/app_sdk/
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style_gen.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/font/lv_font.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style_gen.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/font/lv_symbol_def.h
@@ -11667,7 +11667,7 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style_gen.c.o: /home/feng/xiaozhi/work/app_
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style_gen.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_style_gen.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style_gen.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style_gen.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style_gen.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_style_gen.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_templ.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_templ.c
 
@@ -11691,7 +11691,7 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_timer.c.o: /home/feng/xiaozhi/work/app_sdk/
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_timer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.c
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_timer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_timer.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_timer.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_timer.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_timer.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_tlsf.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_internal.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_tlsf.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/lv_conf_kconfig.h
@@ -11701,7 +11701,7 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_tlsf.c.o: /home/feng/xiaozhi/work/app_sdk/l
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_tlsf.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_tlsf.c
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_tlsf.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_tlsf.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_tlsf.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_tlsf.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_tlsf.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw.h
@@ -11739,7 +11739,7 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt.c.o: /home/feng/xiaozhi/work/app_sdk/lv
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt_ap.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt_ap.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_obj_pos.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt_ap.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/draw/lv_draw.h
@@ -11777,7 +11777,7 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt_ap.c.o: /home/feng/xiaozhi/work/app_sdk
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt_ap.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt_ap.c
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt_ap.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_txt_ap.h
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt_ap.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
-lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt_ap.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_txt_ap.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_utils.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_utils.c
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_utils.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_utils.h
@@ -11834,7 +11834,7 @@ lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_arc.c.o: /home/feng/xiaozhi/work/app_sdk
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_arc.c
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_arc.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_arc.h
-lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_arc.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_arc.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_bar.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_bar.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -11889,7 +11889,7 @@ lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_bar.c.o: /home/feng/xiaozhi/work/app_sdk
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_bar.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_bar.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_bar.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_btn.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_bar.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_label.h
-lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_bar.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_bar.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btn.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btn.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -11943,7 +11943,7 @@ lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btn.c.o: /home/feng/xiaozhi/work/app_sdk
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btn.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btn.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_btn.c
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btn.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_btn.h
-lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btn.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btn.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btnmatrix.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btnmatrix.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -11999,7 +11999,7 @@ lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btnmatrix.c.o: /home/feng/xiaozhi/work/a
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btnmatrix.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btnmatrix.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_btnmatrix.c
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btnmatrix.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_btnmatrix.h
-lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btnmatrix.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_btnmatrix.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_canvas.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_canvas.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -12056,7 +12056,7 @@ lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_canvas.c.o: /home/feng/xiaozhi/work/app_
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_canvas.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_canvas.c
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_canvas.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_canvas.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_canvas.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_img.h
-lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_canvas.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_canvas.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_checkbox.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_checkbox.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -12110,7 +12110,7 @@ lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_checkbox.c.o: /home/feng/xiaozhi/work/ap
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_checkbox.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_checkbox.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_checkbox.c
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_checkbox.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_checkbox.h
-lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_checkbox.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_checkbox.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_dropdown.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_dropdown.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -12168,7 +12168,7 @@ lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_dropdown.c.o: /home/feng/xiaozhi/work/ap
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_dropdown.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_dropdown.c
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_dropdown.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_dropdown.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_dropdown.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_label.h
-lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_dropdown.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_dropdown.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -12223,7 +12223,7 @@ lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_img.c.o: /home/feng/xiaozhi/work/app_sdk
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_img.c
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_img.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_img.h
-lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_img.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_img.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_label.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_label.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -12277,7 +12277,7 @@ lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_label.c.o: /home/feng/xiaozhi/work/app_s
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_label.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_label.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_label.c
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_label.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_label.h
-lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_label.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_label.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -12330,7 +12330,7 @@ lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_line.c.o: /home/feng/xiaozhi/work/app_sd
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/misc/lv_types.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_line.c
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_line.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_line.h
-lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_line.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_line.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_objx_templ.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_objx_templ.c
 
@@ -12388,7 +12388,7 @@ lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_roller.c.o: /home/feng/xiaozhi/work/app_
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_roller.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_label.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_roller.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_roller.c
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_roller.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_roller.h
-lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_roller.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_roller.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_slider.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_slider.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -12448,7 +12448,7 @@ lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_slider.c.o: /home/feng/xiaozhi/work/app_
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_slider.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_label.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_slider.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_slider.c
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_slider.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_slider.h
-lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_slider.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_slider.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_switch.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_disp.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_switch.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
@@ -12505,7 +12505,7 @@ lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_switch.c.o: /home/feng/xiaozhi/work/app_
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_switch.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_img.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_switch.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.c
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_switch.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
-lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_switch.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_switch.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_table.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_table.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -12561,7 +12561,7 @@ lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_table.c.o: /home/feng/xiaozhi/work/app_s
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_table.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_label.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_table.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.c
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_table.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
-lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_table.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_table.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_textarea.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_event.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_textarea.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/core/lv_group.h
@@ -12617,5 +12617,5 @@ lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_textarea.c.o: /home/feng/xiaozhi/work/ap
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_textarea.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_label.h
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_textarea.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.c
 lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_textarea.c.o: /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
-lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_textarea.c.o: /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+lvgl/CMakeFiles/lvgl.dir/src/widgets/lv_textarea.c.o: /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h
 

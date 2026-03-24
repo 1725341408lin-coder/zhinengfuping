@@ -60,80 +60,93 @@ include CMakeFiles/app4.dir/flags.make
 CMakeFiles/app4.dir/iotest.c.o: CMakeFiles/app4.dir/flags.make
 CMakeFiles/app4.dir/iotest.c.o: ../iotest.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/app4.dir/iotest.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/iotest.c.o   -c /home/feng/xiaozhi/work/app4/iotest.c
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/iotest.c.o   -c /home/feng/xiaozhi/work/app4/iotest.c
 
 CMakeFiles/app4.dir/iotest.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/app4.dir/iotest.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app4/iotest.c > CMakeFiles/app4.dir/iotest.c.i
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app4/iotest.c > CMakeFiles/app4.dir/iotest.c.i
 
 CMakeFiles/app4.dir/iotest.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/app4.dir/iotest.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/iotest.c -o CMakeFiles/app4.dir/iotest.c.s
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/iotest.c -o CMakeFiles/app4.dir/iotest.c.s
 
 CMakeFiles/app4.dir/main.c.o: CMakeFiles/app4.dir/flags.make
 CMakeFiles/app4.dir/main.c.o: ../main.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/app4.dir/main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/main.c.o   -c /home/feng/xiaozhi/work/app4/main.c
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/main.c.o   -c /home/feng/xiaozhi/work/app4/main.c
 
 CMakeFiles/app4.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/app4.dir/main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app4/main.c > CMakeFiles/app4.dir/main.c.i
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app4/main.c > CMakeFiles/app4.dir/main.c.i
 
 CMakeFiles/app4.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/app4.dir/main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/main.c -o CMakeFiles/app4.dir/main.c.s
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/main.c -o CMakeFiles/app4.dir/main.c.s
 
 CMakeFiles/app4.dir/page_alarm.c.o: CMakeFiles/app4.dir/flags.make
 CMakeFiles/app4.dir/page_alarm.c.o: ../page_alarm.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/app4.dir/page_alarm.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/page_alarm.c.o   -c /home/feng/xiaozhi/work/app4/page_alarm.c
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/page_alarm.c.o   -c /home/feng/xiaozhi/work/app4/page_alarm.c
 
 CMakeFiles/app4.dir/page_alarm.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/app4.dir/page_alarm.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app4/page_alarm.c > CMakeFiles/app4.dir/page_alarm.c.i
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app4/page_alarm.c > CMakeFiles/app4.dir/page_alarm.c.i
 
 CMakeFiles/app4.dir/page_alarm.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/app4.dir/page_alarm.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/page_alarm.c -o CMakeFiles/app4.dir/page_alarm.c.s
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/page_alarm.c -o CMakeFiles/app4.dir/page_alarm.c.s
 
 CMakeFiles/app4.dir/page_dialog.c.o: CMakeFiles/app4.dir/flags.make
 CMakeFiles/app4.dir/page_dialog.c.o: ../page_dialog.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/app4.dir/page_dialog.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/page_dialog.c.o   -c /home/feng/xiaozhi/work/app4/page_dialog.c
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/page_dialog.c.o   -c /home/feng/xiaozhi/work/app4/page_dialog.c
 
 CMakeFiles/app4.dir/page_dialog.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/app4.dir/page_dialog.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app4/page_dialog.c > CMakeFiles/app4.dir/page_dialog.c.i
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app4/page_dialog.c > CMakeFiles/app4.dir/page_dialog.c.i
 
 CMakeFiles/app4.dir/page_dialog.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/app4.dir/page_dialog.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/page_dialog.c -o CMakeFiles/app4.dir/page_dialog.c.s
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/page_dialog.c -o CMakeFiles/app4.dir/page_dialog.c.s
 
 CMakeFiles/app4.dir/page_main.c.o: CMakeFiles/app4.dir/flags.make
 CMakeFiles/app4.dir/page_main.c.o: ../page_main.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/app4.dir/page_main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/page_main.c.o   -c /home/feng/xiaozhi/work/app4/page_main.c
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/page_main.c.o   -c /home/feng/xiaozhi/work/app4/page_main.c
 
 CMakeFiles/app4.dir/page_main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/app4.dir/page_main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app4/page_main.c > CMakeFiles/app4.dir/page_main.c.i
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app4/page_main.c > CMakeFiles/app4.dir/page_main.c.i
 
 CMakeFiles/app4.dir/page_main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/app4.dir/page_main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/page_main.c -o CMakeFiles/app4.dir/page_main.c.s
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/page_main.c -o CMakeFiles/app4.dir/page_main.c.s
 
 CMakeFiles/app4.dir/page_setting.c.o: CMakeFiles/app4.dir/flags.make
 CMakeFiles/app4.dir/page_setting.c.o: ../page_setting.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/app4.dir/page_setting.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/page_setting.c.o   -c /home/feng/xiaozhi/work/app4/page_setting.c
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/page_setting.c.o   -c /home/feng/xiaozhi/work/app4/page_setting.c
 
 CMakeFiles/app4.dir/page_setting.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/app4.dir/page_setting.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app4/page_setting.c > CMakeFiles/app4.dir/page_setting.c.i
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app4/page_setting.c > CMakeFiles/app4.dir/page_setting.c.i
 
 CMakeFiles/app4.dir/page_setting.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/app4.dir/page_setting.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/page_setting.c -o CMakeFiles/app4.dir/page_setting.c.s
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/page_setting.c -o CMakeFiles/app4.dir/page_setting.c.s
+
+CMakeFiles/app4.dir/wpa_manager.c.o: CMakeFiles/app4.dir/flags.make
+CMakeFiles/app4.dir/wpa_manager.c.o: ../wpa_manager.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/app4.dir/wpa_manager.c.o"
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/app4.dir/wpa_manager.c.o   -c /home/feng/xiaozhi/work/app4/wpa_manager.c
+
+CMakeFiles/app4.dir/wpa_manager.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/app4.dir/wpa_manager.c.i"
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app4/wpa_manager.c > CMakeFiles/app4.dir/wpa_manager.c.i
+
+CMakeFiles/app4.dir/wpa_manager.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/app4.dir/wpa_manager.c.s"
+	/home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app4/wpa_manager.c -o CMakeFiles/app4.dir/wpa_manager.c.s
 
 # Object files for target app4
 app4_OBJECTS = \
@@ -142,7 +155,8 @@ app4_OBJECTS = \
 "CMakeFiles/app4.dir/page_alarm.c.o" \
 "CMakeFiles/app4.dir/page_dialog.c.o" \
 "CMakeFiles/app4.dir/page_main.c.o" \
-"CMakeFiles/app4.dir/page_setting.c.o"
+"CMakeFiles/app4.dir/page_setting.c.o" \
+"CMakeFiles/app4.dir/wpa_manager.c.o"
 
 # External object files for target app4
 app4_EXTERNAL_OBJECTS =
@@ -153,16 +167,21 @@ app4: CMakeFiles/app4.dir/page_alarm.c.o
 app4: CMakeFiles/app4.dir/page_dialog.c.o
 app4: CMakeFiles/app4.dir/page_main.c.o
 app4: CMakeFiles/app4.dir/page_setting.c.o
+app4: CMakeFiles/app4.dir/wpa_manager.c.o
 app4: CMakeFiles/app4.dir/build.make
 app4: lvgl/liblvgl.a
 app4: font/libfont.a
+app4: ../../app_sdk/platform/t113/lib/libfreetype.so
+app4: ../../app_sdk/platform/t113/lib/libwpa_client.so
+app4: ../../app_sdk/platform/t113/lib/libuapi.so
+app4: ../../app_sdk/platform/t113/lib/libz.so.1.2.11
 app4: platform/src/liblvgl_porting.a
-app4: ../../app_sdk/platform/x86linux/lib/libfreetype.a
-app4: lvgl/liblvgl.a
+app4: wifi/libwifi.a
+app4: osal/libosal.a
 app4: lvgl/liblvgl.a
 app4: platform/src/liblvgl_porting.a
 app4: CMakeFiles/app4.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable app4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable app4"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/app4.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

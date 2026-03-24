@@ -127,4 +127,4 @@ font/CMakeFiles/font.dir/font_utils.c.o
  /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_switch.h
  /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_table.h
  /home/feng/xiaozhi/work/app_sdk/lvgl/src/widgets/lv_textarea.h
- /home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/porting/lv_conf.h
+ /home/feng/xiaozhi/work/app_sdk/platform/t113/src/porting/lv_conf.h

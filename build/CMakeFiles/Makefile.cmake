@@ -12,9 +12,11 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.15.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.15.3/CMakeSystem.cmake"
   "/home/feng/xiaozhi/work/app_sdk/component/font/CMakeLists.txt"
+  "/home/feng/xiaozhi/work/app_sdk/component/osal/CMakeLists.txt"
+  "/home/feng/xiaozhi/work/app_sdk/component/wifi/CMakeLists.txt"
   "/home/feng/xiaozhi/work/app_sdk/lvgl/CMakeLists.txt"
-  "/home/feng/xiaozhi/work/app_sdk/platform/x86linux/CMakeLists.txt"
-  "/home/feng/xiaozhi/work/app_sdk/platform/x86linux/src/CMakeLists.txt"
+  "/home/feng/xiaozhi/work/app_sdk/platform/t113/CMakeLists.txt"
+  "/home/feng/xiaozhi/work/app_sdk/platform/t113/src/CMakeLists.txt"
   "/home/feng/xiaozhi/work/download/cmake-3.15.3-Linux-x86_64/share/cmake-3.15/Modules/CMakeCCompiler.cmake.in"
   "/home/feng/xiaozhi/work/download/cmake-3.15.3-Linux-x86_64/share/cmake-3.15/Modules/CMakeCCompilerABI.c"
   "/home/feng/xiaozhi/work/download/cmake-3.15.3-Linux-x86_64/share/cmake-3.15/Modules/CMakeCInformation.cmake"
@@ -120,6 +122,8 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "platform/CMakeFiles/CMakeDirectoryInformation.cmake"
   "platform/src/CMakeFiles/CMakeDirectoryInformation.cmake"
   "font/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "osal/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "wifi/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -129,4 +133,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "lvgl/CMakeFiles/lvgl_demos.dir/DependInfo.cmake"
   "platform/src/CMakeFiles/lvgl_porting.dir/DependInfo.cmake"
   "font/CMakeFiles/font.dir/DependInfo.cmake"
+  "osal/CMakeFiles/osal.dir/DependInfo.cmake"
+  "wifi/CMakeFiles/wifi.dir/DependInfo.cmake"
   )

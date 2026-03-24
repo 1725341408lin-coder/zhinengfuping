@@ -60,15 +60,15 @@ include font/CMakeFiles/font.dir/flags.make
 font/CMakeFiles/font.dir/font_utils.c.o: font/CMakeFiles/font.dir/flags.make
 font/CMakeFiles/font.dir/font_utils.c.o: /home/feng/xiaozhi/work/app_sdk/component/font/font_utils.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/feng/xiaozhi/work/app4/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object font/CMakeFiles/font.dir/font_utils.c.o"
-	cd /home/feng/xiaozhi/work/app4/build/font && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/font.dir/font_utils.c.o   -c /home/feng/xiaozhi/work/app_sdk/component/font/font_utils.c
+	cd /home/feng/xiaozhi/work/app4/build/font && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/font.dir/font_utils.c.o   -c /home/feng/xiaozhi/work/app_sdk/component/font/font_utils.c
 
 font/CMakeFiles/font.dir/font_utils.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/font.dir/font_utils.c.i"
-	cd /home/feng/xiaozhi/work/app4/build/font && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/component/font/font_utils.c > CMakeFiles/font.dir/font_utils.c.i
+	cd /home/feng/xiaozhi/work/app4/build/font && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/feng/xiaozhi/work/app_sdk/component/font/font_utils.c > CMakeFiles/font.dir/font_utils.c.i
 
 font/CMakeFiles/font.dir/font_utils.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/font.dir/font_utils.c.s"
-	cd /home/feng/xiaozhi/work/app4/build/font && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/component/font/font_utils.c -o CMakeFiles/font.dir/font_utils.c.s
+	cd /home/feng/xiaozhi/work/app4/build/font && /home/feng/xiaozhi/work/download/toolchain-sunxi-glibc-gcc-830/toolchain/bin/arm-openwrt-linux-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/feng/xiaozhi/work/app_sdk/component/font/font_utils.c -o CMakeFiles/font.dir/font_utils.c.s
 
 # Object files for target font
 font_OBJECTS = \
