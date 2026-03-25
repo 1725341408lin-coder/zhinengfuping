@@ -201,6 +201,33 @@ wifi/fast:
 	$(MAKE) -f wifi/CMakeFiles/wifi.dir/build.make wifi/CMakeFiles/wifi.dir/build
 .PHONY : wifi/fast
 
+http_manager.o: http_manager.c.o
+
+.PHONY : http_manager.o
+
+# target to build an object file
+http_manager.c.o:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/http_manager.c.o
+.PHONY : http_manager.c.o
+
+http_manager.i: http_manager.c.i
+
+.PHONY : http_manager.i
+
+# target to preprocess a source file
+http_manager.c.i:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/http_manager.c.i
+.PHONY : http_manager.c.i
+
+http_manager.s: http_manager.c.s
+
+.PHONY : http_manager.s
+
+# target to generate assembly for a file
+http_manager.c.s:
+	$(MAKE) -f CMakeFiles/app4.dir/build.make CMakeFiles/app4.dir/http_manager.c.s
+.PHONY : http_manager.c.s
+
 iotest.o: iotest.c.o
 
 .PHONY : iotest.o
@@ -405,6 +432,9 @@ help:
 	@echo "... font"
 	@echo "... osal"
 	@echo "... wifi"
+	@echo "... http_manager.o"
+	@echo "... http_manager.i"
+	@echo "... http_manager.s"
 	@echo "... iotest.o"
 	@echo "... iotest.i"
 	@echo "... iotest.s"

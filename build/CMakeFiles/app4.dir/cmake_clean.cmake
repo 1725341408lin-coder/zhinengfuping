@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/app4.dir/http_manager.c.o"
   "CMakeFiles/app4.dir/iotest.c.o"
   "CMakeFiles/app4.dir/main.c.o"
   "CMakeFiles/app4.dir/page_alarm.c.o"

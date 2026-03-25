@@ -34,6 +34,8 @@ int main() {
     const char *password = "12345678lin";
 //连接路由
     connect_wifi( ssid, password);
+    sleep(10);
+    tianqixianshi();
 
 
     while (1) {

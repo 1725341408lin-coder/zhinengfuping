@@ -88,6 +88,11 @@ else()
         ${CMAKE_SOURCE_DIR}/../app_sdk/platform/t113/lib/libwpa_client.so
         ${CMAKE_SOURCE_DIR}/../app_sdk/platform/t113/lib/libuapi.so
         ${CMAKE_SOURCE_DIR}/../app_sdk/platform/t113/lib/libz.so.1.2.11
+        ${CMAKE_SOURCE_DIR}/../app_sdk/platform/t113/lib/libcurl.so
+        ${CMAKE_SOURCE_DIR}/../app_sdk/platform/t113/lib/libcjson.a
+        ${CMAKE_SOURCE_DIR}/../app_sdk/platform/t113/lib/libssl.so
+        ${CMAKE_SOURCE_DIR}/../app_sdk/platform/t113/lib/libcrypto.so
+        ${CMAKE_SOURCE_DIR}/../app_sdk/platform/t113/lib/libnghttp2.so
         lvgl_porting
         wifi
         osal
