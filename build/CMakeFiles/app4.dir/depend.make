@@ -146,6 +146,7 @@ CMakeFiles/app4.dir/main.c.o: ../../app_sdk/lvgl/src/widgets/lv_textarea.h
 CMakeFiles/app4.dir/main.c.o: ../../app_sdk/platform/t113/src/porting/lv_conf.h
 CMakeFiles/app4.dir/main.c.o: ../res/font/font_conf.h
 CMakeFiles/app4.dir/main.c.o: ../res/res_conf.h
+CMakeFiles/app4.dir/main.c.o: ../http_manager.h
 CMakeFiles/app4.dir/main.c.o: ../main.c
 CMakeFiles/app4.dir/main.c.o: ../page_conf.h
 CMakeFiles/app4.dir/main.c.o: ../wpa_manager.h
@@ -279,6 +280,7 @@ CMakeFiles/app4.dir/page_alarm.c.o: ../res/font/font_conf.h
 CMakeFiles/app4.dir/page_alarm.c.o: ../res/image/image_conf.h
 CMakeFiles/app4.dir/page_alarm.c.o: ../res/res_conf.h
 CMakeFiles/app4.dir/page_alarm.c.o: ../page_alarm.c
+CMakeFiles/app4.dir/page_alarm.c.o: ../page_conf.h
 
 CMakeFiles/app4.dir/page_dialog.c.o: ../../app_sdk/component/font/font_utils.h
 CMakeFiles/app4.dir/page_dialog.c.o: ../../app_sdk/lvgl/lvgl.h
@@ -538,6 +540,7 @@ CMakeFiles/app4.dir/page_main.c.o: ../../app_sdk/platform/t113/src/porting/lv_co
 CMakeFiles/app4.dir/page_main.c.o: ../res/font/font_conf.h
 CMakeFiles/app4.dir/page_main.c.o: ../res/image/image_conf.h
 CMakeFiles/app4.dir/page_main.c.o: ../res/res_conf.h
+CMakeFiles/app4.dir/page_main.c.o: ../http_manager.h
 CMakeFiles/app4.dir/page_main.c.o: ../page_main.c
 
 CMakeFiles/app4.dir/page_setting.c.o: ../../app_sdk/component/font/font_utils.h
@@ -668,6 +671,7 @@ CMakeFiles/app4.dir/page_setting.c.o: ../../app_sdk/platform/t113/src/porting/lv
 CMakeFiles/app4.dir/page_setting.c.o: ../res/font/font_conf.h
 CMakeFiles/app4.dir/page_setting.c.o: ../res/image/image_conf.h
 CMakeFiles/app4.dir/page_setting.c.o: ../res/res_conf.h
+CMakeFiles/app4.dir/page_setting.c.o: ../page_conf.h
 CMakeFiles/app4.dir/page_setting.c.o: ../page_setting.c
 
 CMakeFiles/app4.dir/wpa_manager.c.o: ../../app_sdk/component/osal/osal_conf.h

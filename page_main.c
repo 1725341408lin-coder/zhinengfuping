@@ -3,11 +3,17 @@
 #include "lvgl.h"
 #include "image_conf.h"
 #include "font_conf.h"
+#include "http_manager.h"
+
+static lv_obj_t *weather_label;
+static char weather_info[100]= "";
 
 //声明通用样式
 static lv_style_t com_style;
 // 保留全局标签引用
-static lv_obj_t *time_label = NULL;  
+static lv_obj_t *time_label = NULL;
+// 保留全局 timer 引用
+static lv_timer_t *timer = NULL;  
 //初始化通用样式
 static void com_style_init(){
     //初始化样式
@@ -54,7 +60,7 @@ static lv_obj_t* init_time_view(lv_obj_t *parent){
     lv_obj_set_style_text_color(time_label,lv_color_hex(0xffffff),0);
     lv_obj_align(time_label,LV_ALIGN_TOP_MID,0,60);
 
-    lv_obj_t* weather_label=lv_label_create(cont);
+     weather_label=lv_label_create(cont);
     obj_font_set(weather_label,FONT_TYPE_CN,24);
     lv_label_set_text(weather_label,"大连：晴 0°C");
     lv_obj_set_style_text_color(weather_label,lv_color_hex(0xffffff),0);
@@ -80,18 +86,78 @@ void timer_cb_func(lv_timer_t *timer) {
         return;  // 转换失败
     }
     
-    // 更新时间显示
+    // 更新时间显示和天气显示
     lv_label_set_text_fmt(time_label, "%02d:%02d", 
                           local_tm.tm_hour, local_tm.tm_min);
+   
+    lv_label_set_text(weather_label,weather_info);
 }
 
-static void init_timer(void) {
-    lv_timer_create(timer_cb_func, 1000, NULL);
+static void update_weather_display(void *data) {
+    if(weather_label != NULL) {
+        lv_label_set_text(weather_label, weather_info);
+    }
 }
+static void weather_callback_func(char *data){
+    printf("---->%s\n",data);
+    strncpy(weather_info, data, sizeof(weather_info) - 1);
+    weather_info[sizeof(weather_info) - 1] = '\0';
+    lv_async_call(update_weather_display, NULL);
+}
+static void init_timer(void) {
+    timer = lv_timer_create(timer_cb_func, 1000, NULL);
+}
+
+/**
+ * @brief 安全删除当前页面并重置样式
+ * @param style 需要重置的样式指针
+ * @note 只有在没有屏幕切换操作时才执行清理，避免在动画过程中破坏界面
+ */
+static void delete_current_page(lv_style_t *style)
+{
+    // 获取当前活动屏幕对象
+    lv_obj_t * act_scr = lv_scr_act();
+    
+    // 获取当前屏幕所在的显示器对象
+    // 显示器对象包含了屏幕切换的状态信息
+    lv_disp_t * d = lv_obj_get_disp(act_scr);
+    
+    // 判断是否可以安全删除：
+    // 1. d->prev_scr == NULL：没有上一个屏幕正在等待切换（没有进行中的屏幕切换动画）
+    // 2. d->scr_to_load == NULL：没有待加载的新屏幕
+    // 3. d->scr_to_load == act_scr：待加载的屏幕就是当前屏幕（特殊情况，也安全）
+    if (d->prev_scr == NULL && (d->scr_to_load == NULL || d->scr_to_load == act_scr))
+    {
+        // 删除当前屏幕上的所有子对象
+        // 注意：只删除子对象，保留屏幕对象本身
+        lv_obj_clean(act_scr);
+        
+        // 重置传入的样式对象
+        // 释放样式占用的所有属性内存，恢复到初始状态
+        lv_style_reset(style);
+    }
+    // 如果条件不满足（有屏幕切换在进行中），则跳过清理
+    // 这样可以避免在屏幕切换动画过程中破坏界面，防止程序崩溃
+}
+
+static void deinit_timer(){
+    if(timer != NULL)
+        lv_timer_del(timer);
+    timer = NULL;
+}
+
 
 static void menu_click_event_cb(lv_event_t* e){
     char* menu_name=(char*)lv_event_get_user_data(e);
     printf("menu_name:%s\n",menu_name);
+    deinit_timer();
+    if(strcmp(menu_name,"番茄时钟")==0){
+        delete_current_page(&com_style);
+        init_page_alarm();
+    }else if(strcmp(menu_name,"系统设置") == 0){
+        delete_current_page(&com_style);
+        init_page_setting();
+    }
 }
 
 static lv_obj_t* init_item(lv_obj_t* parent,char* imgurl,char* str){
@@ -172,5 +238,6 @@ void init_page_main(void)
     lv_obj_align_to(menu_list,info_view,LV_ALIGN_OUT_RIGHT_MID,150,0);
 
     init_timer();
-
+    http_set_weather_callback(weather_callback_func);
+    tianqixianshi();
 }

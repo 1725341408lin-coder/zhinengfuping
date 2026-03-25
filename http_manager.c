@@ -134,20 +134,27 @@ void parseWeatherData(const char *json_data) {
         cJSON_Delete(root);
         return;
     }
+    // 获取具体字段并检查是否存在
+    cJSON *name = cJSON_GetObjectItem(location, "name");
+    cJSON *text = cJSON_GetObjectItem(now, "text");
+    cJSON *temperature = cJSON_GetObjectItem(now, "temperature");
+    
+    if (!name || !name->valuestring || !text || !text->valuestring || !temperature || !temperature->valuestring) {
+        fprintf(stderr, "Invalid JSON format: missing required fields.\n");
+        cJSON_Delete(root);
+        return;
+    }
+    
     // 打印 location 字段
-    printf("Location Name: %s\n", cJSON_GetObjectItem(location, "name")->valuestring);
+    printf("Location Name: %s\n", name->valuestring);
     // 打印 now 字段
-    printf("Current Weather: %s\n", cJSON_GetObjectItem(now, "text")->valuestring);
-    printf("Temperature: %s\n", cJSON_GetObjectItem(now, "temperature")->valuestring);
+    printf("Current Weather: %s\n", text->valuestring);
+    printf("Temperature: %s\n", temperature->valuestring);
 
-    char weather_info[50];
+    char weather_info[100];
     memset(weather_info, 0, sizeof(weather_info));
-    strcat(weather_info, cJSON_GetObjectItem(location, "name")->valuestring);
-    strcat(weather_info, " ");
-    strcat(weather_info, cJSON_GetObjectItem(now, "text")->valuestring);
-    strcat(weather_info, " ");
-    strcat(weather_info, cJSON_GetObjectItem(now, "temperature")->valuestring);
-    strcat(weather_info, "°C");
+    snprintf(weather_info, sizeof(weather_info), "%s %s %s°C", name->valuestring, text->valuestring, temperature->valuestring);
+    
     if(weather_callback_func != NULL)
         weather_callback_func(weather_info);
     cJSON_Delete(root);
@@ -261,7 +268,7 @@ void tianqixianshi()
         }
         
         // 设置回调函数
-        http_set_weather_callback(weather_display_callback);
+        //http_set_weather_callback(weather_display_callback);为了配合page_main.c中的weather_callback_func
         
         initialized = 1;
     }
@@ -269,6 +276,5 @@ void tianqixianshi()
     // 发送天气请求
     http_get_weather_async((char*)api_key, (char*)city);
     
-    // 等待响应（简单延时，让异步请求有时间完成）
-    sleep(3);
+  
 }

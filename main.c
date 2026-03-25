@@ -5,6 +5,7 @@
 #include "font_conf.h"
 #include "page_conf.h"
 #include "wpa_manager.h"
+#include "http_manager.h"
 
 
 extern void lv_port_disp_init(bool is_disp_orientation);
@@ -13,6 +14,8 @@ extern void lv_port_indev_init(void);
 int main() {
     //LVGL框架初始化
     lv_init();
+    //LVGL额外功能初始化（包括文件系统驱动）
+    lv_extra_init();
     //LVGL显示屏幕初始化
     lv_port_disp_init(true);
     //LVGL输入设备初始化
@@ -23,7 +26,7 @@ int main() {
 
 
 
-    //init_page_main();
+    
     //init_page_setting();
     //init_page_alarm();
     //init_page_dialog();
@@ -35,7 +38,7 @@ int main() {
 //连接路由
     connect_wifi( ssid, password);
     sleep(10);
-    tianqixianshi();
+    init_page_main();
 
 
     while (1) {

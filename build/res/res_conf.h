@@ -5,8 +5,8 @@
     #define FONT_PATH "./res/font/"
     #define IMAGE_PATH "./res/image/"
 #else
-    #define FONT_PATH "/usr/res/font/"
-    #define IMAGE_PATH "/usr/res/image/"
+    #define FONT_PATH "./res/font/"
+    #define IMAGE_PATH "./res/image/"
 #endif
 
 #endif

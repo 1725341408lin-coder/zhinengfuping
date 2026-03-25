@@ -2,7 +2,7 @@
 #include "lvgl.h"
 #include "image_conf.h"
 #include "font_conf.h"
-
+#include "page_conf.h"
 //声明通用样式
 static lv_style_t com_style;
 //初始化通用样式
@@ -27,8 +27,22 @@ static void obj_font_set(lv_obj_t *obj,int type, uint16_t weight){
         lv_obj_set_style_text_font(obj, font, LV_PART_MAIN);
 }
 
+
+static void delete_current_page(lv_style_t *style){
+    lv_obj_t * act_scr = lv_scr_act();
+    lv_disp_t * d = lv_obj_get_disp(act_scr);
+    if (d->prev_scr == NULL && (d->scr_to_load == NULL || d->scr_to_load == act_scr))
+    {
+        lv_obj_clean(act_scr);
+        lv_style_reset(style);
+    }
+}
+
+
 static void lv_event_cb_func(lv_event_t * e){
     printf("obj click\n");
+    delete_current_page(&com_style);
+    init_page_main();
 }
 
 static void init_back_view(lv_obj_t *parent){

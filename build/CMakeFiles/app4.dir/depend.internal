@@ -147,6 +147,7 @@ CMakeFiles/app4.dir/main.c.o
  ../../app_sdk/platform/t113/src/porting/lv_conf.h
  ../res/font/font_conf.h
  ../res/res_conf.h
+ /home/feng/xiaozhi/work/app4/http_manager.h
  /home/feng/xiaozhi/work/app4/main.c
  /home/feng/xiaozhi/work/app4/page_conf.h
  /home/feng/xiaozhi/work/app4/wpa_manager.h
@@ -280,6 +281,7 @@ CMakeFiles/app4.dir/page_alarm.c.o
  ../res/image/image_conf.h
  ../res/res_conf.h
  /home/feng/xiaozhi/work/app4/page_alarm.c
+ /home/feng/xiaozhi/work/app4/page_conf.h
 CMakeFiles/app4.dir/page_dialog.c.o
  ../../app_sdk/component/font/font_utils.h
  ../../app_sdk/lvgl/lvgl.h
@@ -539,6 +541,7 @@ CMakeFiles/app4.dir/page_main.c.o
  ../res/font/font_conf.h
  ../res/image/image_conf.h
  ../res/res_conf.h
+ /home/feng/xiaozhi/work/app4/http_manager.h
  /home/feng/xiaozhi/work/app4/page_main.c
 CMakeFiles/app4.dir/page_setting.c.o
  ../../app_sdk/component/font/font_utils.h
@@ -669,6 +672,7 @@ CMakeFiles/app4.dir/page_setting.c.o
  ../res/font/font_conf.h
  ../res/image/image_conf.h
  ../res/res_conf.h
+ /home/feng/xiaozhi/work/app4/page_conf.h
  /home/feng/xiaozhi/work/app4/page_setting.c
 CMakeFiles/app4.dir/wpa_manager.c.o
  ../../app_sdk/component/osal/osal_conf.h
